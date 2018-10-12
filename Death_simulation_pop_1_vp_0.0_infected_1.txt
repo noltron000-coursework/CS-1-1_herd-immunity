@@ -1,0 +1,30 @@
+1	0.0	Death	1.0	0.0
+
+=========================
+ population_size: 1
+vaccination_rate: 0.0
+      virus_name: Death
+  mortality_rate: 1.0
+  infection_rate: 0.0
+initial_infected: 1
+num_interactions: 0
+
+cycle # 1 is starting!
+=========================
+
+
+------ person # 1 ------
+
+<><><> Computing Deaths <><><>
+
+>>> person # 1 has died...rest in peace...
+
+=========================
+cycle # 1 has ended...
+
+~~~~~~~~ RESULTS ~~~~~~~~
+ starting population: 1
+finishing population: 0
+  touched by disease: 1
+    number of deaths: 1
+=========================

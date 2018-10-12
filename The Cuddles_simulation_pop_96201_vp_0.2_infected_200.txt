@@ -1,0 +1,1732 @@
+96201	0.2	The Cuddles	0.0072	0.63
+
+=========================
+ population_size: 96201
+vaccination_rate: 0.2
+      virus_name: The Cuddles
+  mortality_rate: 0.0072
+  infection_rate: 0.63
+initial_infected: 200
+num_interactions: 1
+
+cycle # 1 is starting!
+=========================
+
+
+------ person # 1 ------
+lucky person # 21053 didn't get sick
+
+------ person # 2 ------
+person # 2 infected person # 54932!
+
+------ person # 3 ------
+vaccinated person # 33197 is protected
+
+------ person # 4 ------
+lucky person # 63318 didn't get sick
+
+------ person # 5 ------
+person # 5 infected person # 18466!
+
+------ person # 6 ------
+person # 6 infected person # 8804!
+
+------ person # 7 ------
+person # 7 infected person # 94773!
+
+------ person # 8 ------
+person # 8 infected person # 83947!
+
+------ person # 9 ------
+person # 9 infected person # 91537!
+
+------ person # 10 ------
+lucky person # 70604 didn't get sick
+
+------ person # 11 ------
+lucky person # 87645 didn't get sick
+
+------ person # 12 ------
+person # 12 infected person # 60335!
+
+------ person # 13 ------
+person # 13 infected person # 50071!
+
+------ person # 14 ------
+person # 14 infected person # 33568!
+
+------ person # 15 ------
+lucky person # 47754 didn't get sick
+
+------ person # 16 ------
+vaccinated person # 20315 is protected
+
+------ person # 17 ------
+person # 17 infected person # 58688!
+
+------ person # 18 ------
+lucky person # 2349 didn't get sick
+
+------ person # 19 ------
+vaccinated person # 62352 is protected
+
+------ person # 20 ------
+person # 20 infected person # 66664!
+
+------ person # 21 ------
+person # 21 infected person # 27951!
+
+------ person # 22 ------
+lucky person # 909 didn't get sick
+
+------ person # 23 ------
+person # 23 infected person # 76262!
+
+------ person # 24 ------
+person # 24 infected person # 14320!
+
+------ person # 25 ------
+person # 25 infected person # 69454!
+
+------ person # 26 ------
+person # 26 infected person # 64963!
+
+------ person # 27 ------
+vaccinated person # 70015 is protected
+
+------ person # 28 ------
+person # 28 infected person # 2656!
+
+------ person # 29 ------
+person # 29 infected person # 19397!
+
+------ person # 30 ------
+lucky person # 35368 didn't get sick
+
+------ person # 31 ------
+person # 31 infected person # 65152!
+
+------ person # 32 ------
+person # 32 infected person # 1979!
+
+------ person # 33 ------
+person # 33 infected person # 55198!
+
+------ person # 34 ------
+person # 34 infected person # 51098!
+
+------ person # 35 ------
+person # 35 infected person # 17520!
+
+------ person # 36 ------
+lucky person # 67282 didn't get sick
+
+------ person # 37 ------
+person # 37 infected person # 78083!
+
+------ person # 38 ------
+vaccinated person # 71414 is protected
+
+------ person # 39 ------
+lucky person # 80937 didn't get sick
+
+------ person # 40 ------
+vaccinated person # 44302 is protected
+
+------ person # 41 ------
+lucky person # 18764 didn't get sick
+
+------ person # 42 ------
+person # 42 infected person # 5327!
+
+------ person # 43 ------
+person # 43 infected person # 88793!
+
+------ person # 44 ------
+person # 44 infected person # 92552!
+
+------ person # 45 ------
+vaccinated person # 13943 is protected
+
+------ person # 46 ------
+lucky person # 15109 didn't get sick
+
+------ person # 47 ------
+vaccinated person # 40400 is protected
+
+------ person # 48 ------
+lucky person # 81187 didn't get sick
+
+------ person # 49 ------
+person # 49 infected person # 84460!
+
+------ person # 50 ------
+lucky person # 12050 didn't get sick
+
+------ person # 51 ------
+person # 51 infected person # 72056!
+
+------ person # 52 ------
+person # 52 infected person # 11648!
+
+------ person # 53 ------
+person # 53 infected person # 79200!
+
+------ person # 54 ------
+person # 54 infected person # 82954!
+
+------ person # 55 ------
+vaccinated person # 85177 is protected
+
+------ person # 56 ------
+person # 56 infected person # 57530!
+
+------ person # 57 ------
+person # 57 infected person # 71404!
+
+------ person # 58 ------
+person # 58 infected person # 21695!
+
+------ person # 59 ------
+person # 59 infected person # 90307!
+
+------ person # 60 ------
+person # 60 infected person # 11271!
+
+------ person # 61 ------
+person # 61 infected person # 26995!
+
+------ person # 62 ------
+person # 62 infected person # 26976!
+
+------ person # 63 ------
+person # 63 infected person # 73122!
+
+------ person # 64 ------
+person # 64 infected person # 9693!
+
+------ person # 65 ------
+vaccinated person # 89636 is protected
+
+------ person # 66 ------
+vaccinated person # 31713 is protected
+
+------ person # 67 ------
+lucky person # 42026 didn't get sick
+
+------ person # 68 ------
+person # 68 infected person # 40881!
+
+------ person # 69 ------
+vaccinated person # 28077 is protected
+
+------ person # 70 ------
+person # 70 infected person # 8214!
+
+------ person # 71 ------
+person # 71 infected person # 86362!
+
+------ person # 72 ------
+person # 128 is already diseased
+
+------ person # 73 ------
+person # 73 infected person # 63854!
+
+------ person # 74 ------
+person # 74 infected person # 385!
+
+------ person # 75 ------
+person # 75 infected person # 82998!
+
+------ person # 76 ------
+lucky person # 72307 didn't get sick
+
+------ person # 77 ------
+lucky person # 82697 didn't get sick
+
+------ person # 78 ------
+person # 78 infected person # 80396!
+
+------ person # 79 ------
+lucky person # 14464 didn't get sick
+
+------ person # 80 ------
+vaccinated person # 28789 is protected
+
+------ person # 81 ------
+person # 81 infected person # 12181!
+
+------ person # 82 ------
+lucky person # 3087 didn't get sick
+
+------ person # 83 ------
+person # 83 infected person # 71213!
+
+------ person # 84 ------
+vaccinated person # 7153 is protected
+
+------ person # 85 ------
+vaccinated person # 65722 is protected
+
+------ person # 86 ------
+person # 86 infected person # 55426!
+
+------ person # 87 ------
+vaccinated person # 91820 is protected
+
+------ person # 88 ------
+person # 88 infected person # 89765!
+
+------ person # 89 ------
+person # 89 infected person # 32148!
+
+------ person # 90 ------
+vaccinated person # 36976 is protected
+
+------ person # 91 ------
+person # 91 infected person # 87086!
+
+------ person # 92 ------
+person # 92 infected person # 72366!
+
+------ person # 93 ------
+person # 93 infected person # 77509!
+
+------ person # 94 ------
+vaccinated person # 34228 is protected
+
+------ person # 95 ------
+person # 95 infected person # 4890!
+
+------ person # 96 ------
+person # 96 infected person # 70533!
+
+------ person # 97 ------
+lucky person # 54953 didn't get sick
+
+------ person # 98 ------
+vaccinated person # 91216 is protected
+
+------ person # 99 ------
+vaccinated person # 92949 is protected
+
+------ person # 100 ------
+person # 100 infected person # 69964!
+
+------ person # 101 ------
+lucky person # 15676 didn't get sick
+
+------ person # 102 ------
+person # 102 infected person # 20409!
+
+------ person # 103 ------
+person # 103 infected person # 10285!
+
+------ person # 104 ------
+person # 104 infected person # 91101!
+
+------ person # 105 ------
+lucky person # 56057 didn't get sick
+
+------ person # 106 ------
+person # 106 infected person # 5368!
+
+------ person # 107 ------
+lucky person # 78555 didn't get sick
+
+------ person # 108 ------
+vaccinated person # 34033 is protected
+
+------ person # 109 ------
+person # 109 infected person # 89583!
+
+------ person # 110 ------
+person # 110 infected person # 90070!
+
+------ person # 111 ------
+person # 111 infected person # 29942!
+
+------ person # 112 ------
+person # 112 infected person # 55616!
+
+------ person # 113 ------
+person # 113 infected person # 26854!
+
+------ person # 114 ------
+person # 114 infected person # 74022!
+
+------ person # 115 ------
+vaccinated person # 75793 is protected
+
+------ person # 116 ------
+vaccinated person # 89944 is protected
+
+------ person # 117 ------
+lucky person # 1869 didn't get sick
+
+------ person # 118 ------
+lucky person # 40962 didn't get sick
+
+------ person # 119 ------
+person # 119 infected person # 65656!
+
+------ person # 120 ------
+person # 120 infected person # 44321!
+
+------ person # 121 ------
+lucky person # 92968 didn't get sick
+
+------ person # 122 ------
+lucky person # 26113 didn't get sick
+
+------ person # 123 ------
+vaccinated person # 17995 is protected
+
+------ person # 124 ------
+person # 124 infected person # 26825!
+
+------ person # 125 ------
+person # 125 infected person # 43390!
+
+------ person # 126 ------
+lucky person # 44490 didn't get sick
+
+------ person # 127 ------
+lucky person # 877 didn't get sick
+
+------ person # 128 ------
+vaccinated person # 33588 is protected
+
+------ person # 129 ------
+lucky person # 88967 didn't get sick
+
+------ person # 130 ------
+lucky person # 84190 didn't get sick
+
+------ person # 131 ------
+lucky person # 16178 didn't get sick
+
+------ person # 132 ------
+lucky person # 73969 didn't get sick
+
+------ person # 133 ------
+person # 133 infected person # 74652!
+
+------ person # 134 ------
+lucky person # 58967 didn't get sick
+
+------ person # 135 ------
+person # 135 infected person # 91506!
+
+------ person # 136 ------
+person # 136 infected person # 26022!
+
+------ person # 137 ------
+person # 137 infected person # 21944!
+
+------ person # 138 ------
+vaccinated person # 82658 is protected
+
+------ person # 139 ------
+lucky person # 5013 didn't get sick
+
+------ person # 140 ------
+lucky person # 93050 didn't get sick
+
+------ person # 141 ------
+lucky person # 18252 didn't get sick
+
+------ person # 142 ------
+lucky person # 35744 didn't get sick
+
+------ person # 143 ------
+vaccinated person # 66300 is protected
+
+------ person # 144 ------
+lucky person # 65432 didn't get sick
+
+------ person # 145 ------
+person # 145 infected person # 87711!
+
+------ person # 146 ------
+person # 146 infected person # 63367!
+
+------ person # 147 ------
+person # 147 infected person # 19388!
+
+------ person # 148 ------
+vaccinated person # 84464 is protected
+
+------ person # 149 ------
+vaccinated person # 5585 is protected
+
+------ person # 150 ------
+person # 150 infected person # 84089!
+
+------ person # 151 ------
+person # 151 infected person # 42588!
+
+------ person # 152 ------
+lucky person # 4717 didn't get sick
+
+------ person # 153 ------
+person # 153 infected person # 89298!
+
+------ person # 154 ------
+vaccinated person # 64396 is protected
+
+------ person # 155 ------
+lucky person # 55513 didn't get sick
+
+------ person # 156 ------
+person # 156 infected person # 29854!
+
+------ person # 157 ------
+person # 157 infected person # 91577!
+
+------ person # 158 ------
+person # 158 infected person # 57121!
+
+------ person # 159 ------
+lucky person # 87175 didn't get sick
+
+------ person # 160 ------
+vaccinated person # 16735 is protected
+
+------ person # 161 ------
+lucky person # 93379 didn't get sick
+
+------ person # 162 ------
+vaccinated person # 3234 is protected
+
+------ person # 163 ------
+vaccinated person # 92678 is protected
+
+------ person # 164 ------
+vaccinated person # 65966 is protected
+
+------ person # 165 ------
+vaccinated person # 556 is protected
+
+------ person # 166 ------
+person # 166 infected person # 81302!
+
+------ person # 167 ------
+person # 167 infected person # 75655!
+
+------ person # 168 ------
+lucky person # 63178 didn't get sick
+
+------ person # 169 ------
+person # 169 infected person # 49901!
+
+------ person # 170 ------
+person # 170 infected person # 92263!
+
+------ person # 171 ------
+person # 171 infected person # 75267!
+
+------ person # 172 ------
+person # 172 infected person # 50639!
+
+------ person # 173 ------
+lucky person # 41981 didn't get sick
+
+------ person # 174 ------
+vaccinated person # 80242 is protected
+
+------ person # 175 ------
+person # 175 infected person # 27402!
+
+------ person # 176 ------
+person # 176 infected person # 24106!
+
+------ person # 177 ------
+person # 177 infected person # 51684!
+
+------ person # 178 ------
+person # 178 infected person # 37975!
+
+------ person # 179 ------
+person # 179 infected person # 59373!
+
+------ person # 180 ------
+person # 180 infected person # 8421!
+
+------ person # 181 ------
+lucky person # 9829 didn't get sick
+
+------ person # 182 ------
+lucky person # 70540 didn't get sick
+
+------ person # 183 ------
+lucky person # 71677 didn't get sick
+
+------ person # 184 ------
+vaccinated person # 51698 is protected
+
+------ person # 185 ------
+person # 185 infected person # 54699!
+
+------ person # 186 ------
+person # 186 infected person # 30326!
+
+------ person # 187 ------
+person # 187 infected person # 75316!
+
+------ person # 188 ------
+person # 188 infected person # 54804!
+
+------ person # 189 ------
+person # 189 infected person # 78355!
+
+------ person # 190 ------
+vaccinated person # 88762 is protected
+
+------ person # 191 ------
+person # 191 infected person # 68026!
+
+------ person # 192 ------
+lucky person # 62609 didn't get sick
+
+------ person # 193 ------
+person # 193 infected person # 95370!
+
+------ person # 194 ------
+vaccinated person # 44059 is protected
+
+------ person # 195 ------
+person # 195 infected person # 24552!
+
+------ person # 196 ------
+vaccinated person # 80506 is protected
+
+------ person # 197 ------
+lucky person # 17501 didn't get sick
+
+------ person # 198 ------
+lucky person # 93601 didn't get sick
+
+------ person # 199 ------
+lucky person # 48184 didn't get sick
+
+------ person # 200 ------
+lucky person # 48373 didn't get sick
+
+<><><> Computing Deaths <><><>
+
+>>> person # 1 has survived the infection!
+>>> person # 2 has survived the infection!
+>>> person # 3 has survived the infection!
+>>> person # 4 has survived the infection!
+>>> person # 5 has survived the infection!
+>>> person # 6 has survived the infection!
+>>> person # 7 has survived the infection!
+>>> person # 8 has survived the infection!
+>>> person # 9 has survived the infection!
+>>> person # 10 has survived the infection!
+>>> person # 11 has survived the infection!
+>>> person # 12 has survived the infection!
+>>> person # 13 has survived the infection!
+>>> person # 14 has survived the infection!
+>>> person # 15 has survived the infection!
+>>> person # 16 has survived the infection!
+>>> person # 17 has survived the infection!
+>>> person # 18 has survived the infection!
+>>> person # 19 has survived the infection!
+>>> person # 20 has survived the infection!
+>>> person # 21 has survived the infection!
+>>> person # 22 has survived the infection!
+>>> person # 23 has survived the infection!
+>>> person # 24 has survived the infection!
+>>> person # 25 has survived the infection!
+>>> person # 26 has survived the infection!
+>>> person # 27 has survived the infection!
+>>> person # 28 has survived the infection!
+>>> person # 29 has survived the infection!
+>>> person # 30 has survived the infection!
+>>> person # 31 has survived the infection!
+>>> person # 32 has survived the infection!
+>>> person # 33 has survived the infection!
+>>> person # 34 has survived the infection!
+>>> person # 35 has survived the infection!
+>>> person # 36 has survived the infection!
+>>> person # 37 has survived the infection!
+>>> person # 38 has survived the infection!
+>>> person # 39 has survived the infection!
+>>> person # 40 has survived the infection!
+>>> person # 41 has survived the infection!
+>>> person # 42 has survived the infection!
+>>> person # 43 has survived the infection!
+>>> person # 44 has survived the infection!
+>>> person # 45 has survived the infection!
+>>> person # 46 has died...rest in peace...
+>>> person # 47 has survived the infection!
+>>> person # 48 has survived the infection!
+>>> person # 49 has survived the infection!
+>>> person # 50 has survived the infection!
+>>> person # 51 has survived the infection!
+>>> person # 52 has survived the infection!
+>>> person # 53 has survived the infection!
+>>> person # 54 has survived the infection!
+>>> person # 55 has survived the infection!
+>>> person # 56 has survived the infection!
+>>> person # 57 has survived the infection!
+>>> person # 58 has survived the infection!
+>>> person # 59 has survived the infection!
+>>> person # 60 has survived the infection!
+>>> person # 61 has survived the infection!
+>>> person # 62 has survived the infection!
+>>> person # 63 has survived the infection!
+>>> person # 64 has survived the infection!
+>>> person # 65 has survived the infection!
+>>> person # 66 has survived the infection!
+>>> person # 67 has survived the infection!
+>>> person # 68 has survived the infection!
+>>> person # 69 has survived the infection!
+>>> person # 70 has survived the infection!
+>>> person # 71 has survived the infection!
+>>> person # 72 has survived the infection!
+>>> person # 73 has survived the infection!
+>>> person # 74 has survived the infection!
+>>> person # 75 has survived the infection!
+>>> person # 76 has survived the infection!
+>>> person # 77 has survived the infection!
+>>> person # 78 has survived the infection!
+>>> person # 79 has survived the infection!
+>>> person # 80 has survived the infection!
+>>> person # 81 has survived the infection!
+>>> person # 82 has survived the infection!
+>>> person # 83 has survived the infection!
+>>> person # 84 has survived the infection!
+>>> person # 85 has survived the infection!
+>>> person # 86 has survived the infection!
+>>> person # 87 has survived the infection!
+>>> person # 88 has survived the infection!
+>>> person # 89 has survived the infection!
+>>> person # 90 has survived the infection!
+>>> person # 91 has survived the infection!
+>>> person # 92 has survived the infection!
+>>> person # 93 has survived the infection!
+>>> person # 94 has survived the infection!
+>>> person # 95 has survived the infection!
+>>> person # 96 has survived the infection!
+>>> person # 97 has survived the infection!
+>>> person # 98 has survived the infection!
+>>> person # 99 has survived the infection!
+>>> person # 100 has survived the infection!
+>>> person # 101 has survived the infection!
+>>> person # 102 has survived the infection!
+>>> person # 103 has survived the infection!
+>>> person # 104 has survived the infection!
+>>> person # 105 has survived the infection!
+>>> person # 106 has survived the infection!
+>>> person # 107 has survived the infection!
+>>> person # 108 has survived the infection!
+>>> person # 109 has survived the infection!
+>>> person # 110 has survived the infection!
+>>> person # 111 has survived the infection!
+>>> person # 112 has survived the infection!
+>>> person # 113 has survived the infection!
+>>> person # 114 has survived the infection!
+>>> person # 115 has survived the infection!
+>>> person # 116 has survived the infection!
+>>> person # 117 has survived the infection!
+>>> person # 118 has survived the infection!
+>>> person # 119 has survived the infection!
+>>> person # 120 has survived the infection!
+>>> person # 121 has survived the infection!
+>>> person # 122 has survived the infection!
+>>> person # 123 has survived the infection!
+>>> person # 124 has survived the infection!
+>>> person # 125 has survived the infection!
+>>> person # 126 has survived the infection!
+>>> person # 127 has survived the infection!
+>>> person # 128 has survived the infection!
+>>> person # 129 has survived the infection!
+>>> person # 130 has survived the infection!
+>>> person # 131 has survived the infection!
+>>> person # 132 has survived the infection!
+>>> person # 133 has survived the infection!
+>>> person # 134 has survived the infection!
+>>> person # 135 has survived the infection!
+>>> person # 136 has survived the infection!
+>>> person # 137 has survived the infection!
+>>> person # 138 has survived the infection!
+>>> person # 139 has survived the infection!
+>>> person # 140 has survived the infection!
+>>> person # 141 has survived the infection!
+>>> person # 142 has survived the infection!
+>>> person # 143 has survived the infection!
+>>> person # 144 has survived the infection!
+>>> person # 145 has survived the infection!
+>>> person # 146 has survived the infection!
+>>> person # 147 has survived the infection!
+>>> person # 148 has survived the infection!
+>>> person # 149 has survived the infection!
+>>> person # 150 has survived the infection!
+>>> person # 151 has survived the infection!
+>>> person # 152 has survived the infection!
+>>> person # 153 has died...rest in peace...
+>>> person # 154 has survived the infection!
+>>> person # 155 has survived the infection!
+>>> person # 156 has survived the infection!
+>>> person # 157 has survived the infection!
+>>> person # 158 has survived the infection!
+>>> person # 159 has survived the infection!
+>>> person # 160 has survived the infection!
+>>> person # 161 has survived the infection!
+>>> person # 162 has survived the infection!
+>>> person # 163 has survived the infection!
+>>> person # 164 has survived the infection!
+>>> person # 165 has survived the infection!
+>>> person # 166 has survived the infection!
+>>> person # 167 has survived the infection!
+>>> person # 168 has survived the infection!
+>>> person # 169 has survived the infection!
+>>> person # 170 has survived the infection!
+>>> person # 171 has survived the infection!
+>>> person # 172 has survived the infection!
+>>> person # 173 has survived the infection!
+>>> person # 174 has survived the infection!
+>>> person # 175 has survived the infection!
+>>> person # 176 has survived the infection!
+>>> person # 177 has survived the infection!
+>>> person # 178 has survived the infection!
+>>> person # 179 has survived the infection!
+>>> person # 180 has survived the infection!
+>>> person # 181 has survived the infection!
+>>> person # 182 has survived the infection!
+>>> person # 183 has survived the infection!
+>>> person # 184 has survived the infection!
+>>> person # 185 has died...rest in peace...
+>>> person # 186 has survived the infection!
+>>> person # 187 has survived the infection!
+>>> person # 188 has survived the infection!
+>>> person # 189 has survived the infection!
+>>> person # 190 has survived the infection!
+>>> person # 191 has survived the infection!
+>>> person # 192 has survived the infection!
+>>> person # 193 has survived the infection!
+>>> person # 194 has survived the infection!
+>>> person # 195 has survived the infection!
+>>> person # 196 has survived the infection!
+>>> person # 197 has survived the infection!
+>>> person # 198 has survived the infection!
+>>> person # 199 has survived the infection!
+>>> person # 200 has survived the infection!
+
+=========================
+cycle # 1 has ended...
+cycle # 2 is starting!
+=========================
+
+
+------ person # 385 ------
+person # 385 infected person # 73603!
+
+------ person # 1979 ------
+lucky person # 67138 didn't get sick
+
+------ person # 2656 ------
+lucky person # 76636 didn't get sick
+
+------ person # 4890 ------
+person # 4890 infected person # 2878!
+
+------ person # 5327 ------
+person # 5327 infected person # 8590!
+
+------ person # 5368 ------
+lucky person # 14235 didn't get sick
+
+------ person # 8214 ------
+person # 8214 infected person # 95386!
+
+------ person # 8421 ------
+person # 8421 infected person # 89712!
+
+------ person # 8804 ------
+lucky person # 13840 didn't get sick
+
+------ person # 9693 ------
+vaccinated person # 34270 is protected
+
+------ person # 10285 ------
+person # 10285 infected person # 47586!
+
+------ person # 11271 ------
+lucky person # 42904 didn't get sick
+
+------ person # 11648 ------
+person # 11648 infected person # 28722!
+
+------ person # 12181 ------
+lucky person # 88131 didn't get sick
+
+------ person # 14320 ------
+person # 14320 infected person # 77648!
+
+------ person # 17520 ------
+vaccinated person # 52035 is protected
+
+------ person # 18466 ------
+vaccinated person # 3580 is protected
+
+------ person # 19388 ------
+lucky person # 27737 didn't get sick
+
+------ person # 19397 ------
+lucky person # 84944 didn't get sick
+
+------ person # 20409 ------
+person # 20409 infected person # 90239!
+
+------ person # 21695 ------
+vaccinated person # 23144 is protected
+
+------ person # 21944 ------
+lucky person # 48704 didn't get sick
+
+------ person # 24106 ------
+lucky person # 11113 didn't get sick
+
+------ person # 24552 ------
+lucky person # 26970 didn't get sick
+
+------ person # 26022 ------
+vaccinated person # 25767 is protected
+
+------ person # 26825 ------
+person # 26825 infected person # 61703!
+
+------ person # 26854 ------
+lucky person # 62577 didn't get sick
+
+------ person # 26976 ------
+person # 26976 infected person # 92488!
+
+------ person # 26995 ------
+lucky person # 40503 didn't get sick
+
+------ person # 27402 ------
+person # 27402 infected person # 17152!
+
+------ person # 27951 ------
+person # 27951 infected person # 67495!
+
+------ person # 29854 ------
+person # 29854 infected person # 44565!
+
+------ person # 29942 ------
+person # 29942 infected person # 80844!
+
+------ person # 30326 ------
+vaccinated person # 38554 is protected
+
+------ person # 32148 ------
+person # 32148 infected person # 11025!
+
+------ person # 33568 ------
+lucky person # 5806 didn't get sick
+
+------ person # 37975 ------
+lucky person # 64498 didn't get sick
+
+------ person # 40881 ------
+lucky person # 36307 didn't get sick
+
+------ person # 42588 ------
+lucky person # 70469 didn't get sick
+
+------ person # 43390 ------
+person # 43390 infected person # 90495!
+
+------ person # 44321 ------
+lucky person # 66198 didn't get sick
+
+------ person # 49901 ------
+person # 49901 infected person # 64961!
+
+------ person # 50071 ------
+person # 50071 infected person # 20374!
+
+------ person # 50639 ------
+vaccinated person # 70867 is protected
+
+------ person # 51098 ------
+person # 51098 infected person # 2510!
+
+------ person # 51684 ------
+person # 51684 infected person # 29660!
+
+------ person # 54699 ------
+vaccinated person # 66568 is protected
+
+------ person # 54804 ------
+lucky person # 87266 didn't get sick
+
+------ person # 54932 ------
+lucky person # 82560 didn't get sick
+
+------ person # 55198 ------
+person # 55198 infected person # 31247!
+
+------ person # 55426 ------
+lucky person # 73184 didn't get sick
+
+------ person # 55616 ------
+person # 55616 infected person # 62331!
+
+------ person # 57121 ------
+person # 57121 infected person # 26130!
+
+------ person # 57530 ------
+person # 57530 infected person # 74239!
+
+------ person # 58688 ------
+lucky person # 27295 didn't get sick
+
+------ person # 59373 ------
+person # 59373 infected person # 30379!
+
+------ person # 60335 ------
+person # 60335 infected person # 22377!
+
+------ person # 63367 ------
+lucky person # 27780 didn't get sick
+
+------ person # 63854 ------
+person # 63854 infected person # 5949!
+
+------ person # 64963 ------
+person # 64963 infected person # 9030!
+
+------ person # 65152 ------
+lucky person # 69720 didn't get sick
+
+------ person # 65656 ------
+person # 65656 infected person # 14822!
+
+------ person # 66664 ------
+vaccinated person # 47727 is protected
+
+------ person # 68026 ------
+vaccinated person # 66807 is protected
+
+------ person # 69454 ------
+person # 69454 infected person # 90202!
+
+------ person # 69964 ------
+lucky person # 26521 didn't get sick
+
+------ person # 70533 ------
+vaccinated person # 87950 is protected
+
+------ person # 71213 ------
+person # 71213 infected person # 88057!
+
+------ person # 71404 ------
+person # 71404 infected person # 2577!
+
+------ person # 72056 ------
+person # 72056 infected person # 91060!
+
+------ person # 72366 ------
+person # 72366 infected person # 62735!
+
+------ person # 73122 ------
+person # 73122 infected person # 75588!
+
+------ person # 74022 ------
+person # 74022 infected person # 23883!
+
+------ person # 74652 ------
+person # 74652 infected person # 13351!
+
+------ person # 75267 ------
+person # 75267 infected person # 64511!
+
+------ person # 75316 ------
+lucky person # 21981 didn't get sick
+
+------ person # 75655 ------
+person # 75655 infected person # 81998!
+
+------ person # 76262 ------
+person # 76262 infected person # 89085!
+
+------ person # 77509 ------
+lucky person # 86630 didn't get sick
+
+------ person # 78083 ------
+lucky person # 84756 didn't get sick
+
+------ person # 78355 ------
+person # 78355 infected person # 71367!
+
+------ person # 79200 ------
+person # 79200 infected person # 43892!
+
+------ person # 80396 ------
+lucky person # 22308 didn't get sick
+
+------ person # 81302 ------
+lucky person # 92489 didn't get sick
+
+------ person # 82954 ------
+lucky person # 59317 didn't get sick
+
+------ person # 82998 ------
+lucky person # 15063 didn't get sick
+
+------ person # 83947 ------
+vaccinated person # 85019 is protected
+
+------ person # 84089 ------
+person # 84089 infected person # 53554!
+
+------ person # 84460 ------
+vaccinated person # 68165 is protected
+
+------ person # 86362 ------
+person # 86362 infected person # 8112!
+
+------ person # 87086 ------
+lucky person # 90621 didn't get sick
+
+------ person # 87711 ------
+vaccinated person # 68421 is protected
+
+------ person # 88793 ------
+vaccinated person # 79859 is protected
+
+------ person # 89298 ------
+person # 89298 infected person # 14414!
+
+------ person # 89583 ------
+lucky person # 18441 didn't get sick
+
+------ person # 89765 ------
+vaccinated person # 52054 is protected
+
+------ person # 90070 ------
+lucky person # 34972 didn't get sick
+
+------ person # 90307 ------
+person # 90307 infected person # 48246!
+
+------ person # 91101 ------
+person # 91101 infected person # 66608!
+
+------ person # 91506 ------
+person # 91506 infected person # 8443!
+
+------ person # 91537 ------
+lucky person # 26933 didn't get sick
+
+------ person # 91577 ------
+person # 91577 infected person # 25746!
+
+------ person # 92263 ------
+person # 92263 infected person # 71878!
+
+------ person # 92552 ------
+vaccinated person # 11505 is protected
+
+------ person # 94773 ------
+lucky person # 91219 didn't get sick
+
+------ person # 95370 ------
+vaccinated person # 82078 is protected
+
+<><><> Computing Deaths <><><>
+
+>>> person # 54932 has survived the infection!
+>>> person # 18466 has survived the infection!
+>>> person # 8804 has survived the infection!
+>>> person # 94773 has survived the infection!
+>>> person # 83947 has survived the infection!
+>>> person # 91537 has survived the infection!
+>>> person # 60335 has survived the infection!
+>>> person # 50071 has survived the infection!
+>>> person # 33568 has survived the infection!
+>>> person # 58688 has survived the infection!
+>>> person # 66664 has survived the infection!
+>>> person # 27951 has survived the infection!
+>>> person # 76262 has survived the infection!
+>>> person # 14320 has survived the infection!
+>>> person # 69454 has survived the infection!
+>>> person # 64963 has survived the infection!
+>>> person # 2656 has survived the infection!
+>>> person # 19397 has survived the infection!
+>>> person # 65152 has survived the infection!
+>>> person # 1979 has survived the infection!
+>>> person # 55198 has survived the infection!
+>>> person # 51098 has survived the infection!
+>>> person # 17520 has survived the infection!
+>>> person # 78083 has survived the infection!
+>>> person # 5327 has survived the infection!
+>>> person # 88793 has survived the infection!
+>>> person # 92552 has survived the infection!
+>>> person # 84460 has survived the infection!
+>>> person # 72056 has survived the infection!
+>>> person # 11648 has survived the infection!
+>>> person # 79200 has survived the infection!
+>>> person # 82954 has survived the infection!
+>>> person # 57530 has survived the infection!
+>>> person # 71404 has survived the infection!
+>>> person # 21695 has survived the infection!
+>>> person # 90307 has survived the infection!
+>>> person # 11271 has survived the infection!
+>>> person # 26995 has survived the infection!
+>>> person # 26976 has survived the infection!
+>>> person # 73122 has survived the infection!
+>>> person # 9693 has survived the infection!
+>>> person # 40881 has survived the infection!
+>>> person # 8214 has survived the infection!
+>>> person # 86362 has survived the infection!
+>>> person # 63854 has survived the infection!
+>>> person # 385 has survived the infection!
+>>> person # 82998 has survived the infection!
+>>> person # 80396 has survived the infection!
+>>> person # 12181 has survived the infection!
+>>> person # 71213 has survived the infection!
+>>> person # 55426 has survived the infection!
+>>> person # 89765 has survived the infection!
+>>> person # 32148 has survived the infection!
+>>> person # 87086 has survived the infection!
+>>> person # 72366 has survived the infection!
+>>> person # 77509 has survived the infection!
+>>> person # 4890 has survived the infection!
+>>> person # 70533 has survived the infection!
+>>> person # 69964 has survived the infection!
+>>> person # 20409 has survived the infection!
+>>> person # 10285 has survived the infection!
+>>> person # 91101 has survived the infection!
+>>> person # 5368 has survived the infection!
+>>> person # 89583 has survived the infection!
+>>> person # 90070 has survived the infection!
+>>> person # 29942 has survived the infection!
+>>> person # 55616 has survived the infection!
+>>> person # 26854 has survived the infection!
+>>> person # 74022 has survived the infection!
+>>> person # 65656 has survived the infection!
+>>> person # 44321 has survived the infection!
+>>> person # 26825 has survived the infection!
+>>> person # 43390 has survived the infection!
+>>> person # 74652 has survived the infection!
+>>> person # 91506 has survived the infection!
+>>> person # 26022 has survived the infection!
+>>> person # 21944 has survived the infection!
+>>> person # 87711 has survived the infection!
+>>> person # 63367 has survived the infection!
+>>> person # 19388 has survived the infection!
+>>> person # 84089 has survived the infection!
+>>> person # 42588 has survived the infection!
+>>> person # 89298 has survived the infection!
+>>> person # 29854 has survived the infection!
+>>> person # 91577 has survived the infection!
+>>> person # 57121 has survived the infection!
+>>> person # 81302 has survived the infection!
+>>> person # 75655 has survived the infection!
+>>> person # 49901 has survived the infection!
+>>> person # 92263 has died...rest in peace...
+>>> person # 75267 has survived the infection!
+>>> person # 50639 has survived the infection!
+>>> person # 27402 has survived the infection!
+>>> person # 24106 has survived the infection!
+>>> person # 51684 has survived the infection!
+>>> person # 37975 has survived the infection!
+>>> person # 59373 has survived the infection!
+>>> person # 8421 has survived the infection!
+>>> person # 54699 has survived the infection!
+>>> person # 30326 has survived the infection!
+>>> person # 75316 has survived the infection!
+>>> person # 54804 has survived the infection!
+>>> person # 78355 has survived the infection!
+>>> person # 68026 has survived the infection!
+>>> person # 95370 has survived the infection!
+>>> person # 24552 has survived the infection!
+
+=========================
+cycle # 2 has ended...
+cycle # 3 is starting!
+=========================
+
+
+------ person # 2510 ------
+person # 2510 infected person # 88089!
+
+------ person # 2577 ------
+person # 2577 infected person # 54229!
+
+------ person # 2878 ------
+lucky person # 94777 didn't get sick
+
+------ person # 5949 ------
+lucky person # 40114 didn't get sick
+
+------ person # 8112 ------
+person # 8112 infected person # 24133!
+
+------ person # 8443 ------
+person # 8443 infected person # 57096!
+
+------ person # 8590 ------
+person # 8590 infected person # 14745!
+
+------ person # 9030 ------
+person # 9030 infected person # 19372!
+
+------ person # 11025 ------
+lucky person # 56012 didn't get sick
+
+------ person # 13351 ------
+vaccinated person # 43222 is protected
+
+------ person # 14414 ------
+vaccinated person # 62816 is protected
+
+------ person # 14822 ------
+person # 14822 infected person # 55335!
+
+------ person # 17152 ------
+vaccinated person # 65793 is protected
+
+------ person # 20374 ------
+person # 20374 infected person # 91723!
+
+------ person # 22377 ------
+lucky person # 64218 didn't get sick
+
+------ person # 23883 ------
+vaccinated person # 58496 is protected
+
+------ person # 25746 ------
+person # 25746 infected person # 92403!
+
+------ person # 26130 ------
+vaccinated person # 93011 is protected
+
+------ person # 28722 ------
+lucky person # 9260 didn't get sick
+
+------ person # 29660 ------
+person # 29660 infected person # 37159!
+
+------ person # 30379 ------
+person # 30379 infected person # 37582!
+
+------ person # 31247 ------
+person # 31247 infected person # 15940!
+
+------ person # 43892 ------
+lucky person # 45717 didn't get sick
+
+------ person # 44565 ------
+vaccinated person # 62729 is protected
+
+------ person # 47586 ------
+vaccinated person # 9438 is protected
+
+------ person # 48246 ------
+person # 48246 infected person # 80567!
+
+------ person # 53554 ------
+lucky person # 21189 didn't get sick
+
+------ person # 61703 ------
+lucky person # 87495 didn't get sick
+
+------ person # 62331 ------
+lucky person # 91532 didn't get sick
+
+------ person # 62735 ------
+person # 62735 infected person # 32787!
+
+------ person # 64511 ------
+person # 64511 infected person # 71639!
+
+------ person # 64961 ------
+vaccinated person # 70856 is protected
+
+------ person # 66608 ------
+lucky person # 47718 didn't get sick
+
+------ person # 67495 ------
+lucky person # 80068 didn't get sick
+
+------ person # 71367 ------
+vaccinated person # 67504 is protected
+
+------ person # 71878 ------
+vaccinated person # 30449 is protected
+
+------ person # 73603 ------
+lucky person # 9337 didn't get sick
+
+------ person # 74239 ------
+person # 74239 infected person # 36235!
+
+------ person # 75588 ------
+person # 75588 infected person # 64907!
+
+------ person # 77648 ------
+vaccinated person # 72584 is protected
+
+------ person # 80844 ------
+vaccinated person # 15870 is protected
+
+------ person # 81998 ------
+vaccinated person # 7436 is protected
+
+------ person # 88057 ------
+person # 88057 infected person # 9371!
+
+------ person # 89085 ------
+lucky person # 71275 didn't get sick
+
+------ person # 89712 ------
+lucky person # 17261 didn't get sick
+
+------ person # 90202 ------
+person # 90202 infected person # 652!
+
+------ person # 90239 ------
+person # 90239 infected person # 44713!
+
+------ person # 90495 ------
+person # 90495 infected person # 57938!
+
+------ person # 91060 ------
+person # 91060 infected person # 90934!
+
+------ person # 92488 ------
+vaccinated person # 53413 is protected
+
+------ person # 95386 ------
+person # 95386 infected person # 46782!
+
+<><><> Computing Deaths <><><>
+
+>>> person # 73603 has survived the infection!
+>>> person # 2878 has survived the infection!
+>>> person # 8590 has survived the infection!
+>>> person # 95386 has survived the infection!
+>>> person # 89712 has survived the infection!
+>>> person # 47586 has survived the infection!
+>>> person # 28722 has survived the infection!
+>>> person # 77648 has survived the infection!
+>>> person # 90239 has survived the infection!
+>>> person # 61703 has survived the infection!
+>>> person # 92488 has survived the infection!
+>>> person # 17152 has survived the infection!
+>>> person # 67495 has survived the infection!
+>>> person # 44565 has survived the infection!
+>>> person # 80844 has survived the infection!
+>>> person # 11025 has survived the infection!
+>>> person # 90495 has survived the infection!
+>>> person # 64961 has survived the infection!
+>>> person # 20374 has survived the infection!
+>>> person # 2510 has survived the infection!
+>>> person # 29660 has survived the infection!
+>>> person # 31247 has survived the infection!
+>>> person # 62331 has survived the infection!
+>>> person # 26130 has survived the infection!
+>>> person # 74239 has survived the infection!
+>>> person # 30379 has survived the infection!
+>>> person # 22377 has survived the infection!
+>>> person # 5949 has survived the infection!
+>>> person # 9030 has survived the infection!
+>>> person # 14822 has survived the infection!
+>>> person # 90202 has survived the infection!
+>>> person # 88057 has survived the infection!
+>>> person # 2577 has survived the infection!
+>>> person # 91060 has survived the infection!
+>>> person # 62735 has survived the infection!
+>>> person # 75588 has survived the infection!
+>>> person # 23883 has survived the infection!
+>>> person # 13351 has survived the infection!
+>>> person # 64511 has survived the infection!
+>>> person # 81998 has survived the infection!
+>>> person # 89085 has survived the infection!
+>>> person # 71367 has survived the infection!
+>>> person # 43892 has survived the infection!
+>>> person # 53554 has survived the infection!
+>>> person # 8112 has survived the infection!
+>>> person # 14414 has survived the infection!
+>>> person # 48246 has survived the infection!
+>>> person # 66608 has survived the infection!
+>>> person # 8443 has survived the infection!
+>>> person # 25746 has survived the infection!
+>>> person # 71878 has survived the infection!
+
+=========================
+cycle # 3 has ended...
+cycle # 4 is starting!
+=========================
+
+
+------ person # 652 ------
+lucky person # 85206 didn't get sick
+
+------ person # 9371 ------
+person # 9371 infected person # 37297!
+
+------ person # 14745 ------
+person # 14745 infected person # 39871!
+
+------ person # 15940 ------
+person # 15940 infected person # 56153!
+
+------ person # 19372 ------
+person # 19372 infected person # 85997!
+
+------ person # 24133 ------
+vaccinated person # 19419 is protected
+
+------ person # 32787 ------
+person # 32787 infected person # 80994!
+
+------ person # 36235 ------
+person # 36235 infected person # 32430!
+
+------ person # 37159 ------
+lucky person # 73180 didn't get sick
+
+------ person # 37582 ------
+vaccinated person # 33537 is protected
+
+------ person # 44713 ------
+person # 44713 infected person # 22718!
+
+------ person # 46782 ------
+person # 46782 infected person # 37415!
+
+------ person # 54229 ------
+person # 54229 infected person # 65940!
+
+------ person # 55335 ------
+lucky person # 62972 didn't get sick
+
+------ person # 57096 ------
+person # 57096 infected person # 80009!
+
+------ person # 57938 ------
+person # 57938 infected person # 39382!
+
+------ person # 64907 ------
+vaccinated person # 457 is protected
+
+------ person # 71639 ------
+person # 71639 infected person # 61500!
+
+------ person # 80567 ------
+person # 80567 infected person # 42796!
+
+------ person # 88089 ------
+lucky person # 32613 didn't get sick
+
+------ person # 90934 ------
+lucky person # 26076 didn't get sick
+
+------ person # 91723 ------
+person # 91723 infected person # 87736!
+
+------ person # 92403 ------
+vaccinated person # 25315 is protected
+
+<><><> Computing Deaths <><><>
+
+>>> person # 88089 has survived the infection!
+>>> person # 54229 has survived the infection!
+>>> person # 24133 has survived the infection!
+>>> person # 57096 has survived the infection!
+>>> person # 14745 has survived the infection!
+>>> person # 19372 has survived the infection!
+>>> person # 55335 has survived the infection!
+>>> person # 91723 has survived the infection!
+>>> person # 92403 has survived the infection!
+>>> person # 37159 has survived the infection!
+>>> person # 37582 has survived the infection!
+>>> person # 15940 has survived the infection!
+>>> person # 80567 has survived the infection!
+>>> person # 32787 has survived the infection!
+>>> person # 71639 has survived the infection!
+>>> person # 36235 has survived the infection!
+>>> person # 64907 has survived the infection!
+>>> person # 9371 has survived the infection!
+>>> person # 652 has survived the infection!
+>>> person # 44713 has survived the infection!
+>>> person # 57938 has survived the infection!
+>>> person # 90934 has survived the infection!
+>>> person # 46782 has survived the infection!
+
+=========================
+cycle # 4 has ended...
+cycle # 5 is starting!
+=========================
+
+
+------ person # 22718 ------
+lucky person # 64868 didn't get sick
+
+------ person # 32430 ------
+lucky person # 62441 didn't get sick
+
+------ person # 37297 ------
+person # 37297 infected person # 36230!
+
+------ person # 37415 ------
+person # 37415 infected person # 57055!
+
+------ person # 39382 ------
+lucky person # 78017 didn't get sick
+
+------ person # 39871 ------
+vaccinated person # 74693 is protected
+
+------ person # 42796 ------
+lucky person # 7645 didn't get sick
+
+------ person # 56153 ------
+lucky person # 8652 didn't get sick
+
+------ person # 61500 ------
+person # 61500 infected person # 16975!
+
+------ person # 65940 ------
+vaccinated person # 88547 is protected
+
+------ person # 80009 ------
+person # 80009 infected person # 63149!
+
+------ person # 80994 ------
+person # 80994 infected person # 93201!
+
+------ person # 85997 ------
+lucky person # 96121 didn't get sick
+
+------ person # 87736 ------
+vaccinated person # 44503 is protected
+
+<><><> Computing Deaths <><><>
+
+>>> person # 37297 has survived the infection!
+>>> person # 39871 has survived the infection!
+>>> person # 56153 has survived the infection!
+>>> person # 85997 has survived the infection!
+>>> person # 80994 has survived the infection!
+>>> person # 32430 has survived the infection!
+>>> person # 22718 has survived the infection!
+>>> person # 37415 has survived the infection!
+>>> person # 65940 has survived the infection!
+>>> person # 80009 has survived the infection!
+>>> person # 39382 has survived the infection!
+>>> person # 61500 has survived the infection!
+>>> person # 42796 has survived the infection!
+>>> person # 87736 has survived the infection!
+
+=========================
+cycle # 5 has ended...
+cycle # 6 is starting!
+=========================
+
+
+------ person # 16975 ------
+lucky person # 54580 didn't get sick
+
+------ person # 36230 ------
+lucky person # 31970 didn't get sick
+
+------ person # 57055 ------
+person # 57055 infected person # 45898!
+
+------ person # 63149 ------
+person # 63149 infected person # 48146!
+
+------ person # 93201 ------
+person # 93201 infected person # 84093!
+
+<><><> Computing Deaths <><><>
+
+>>> person # 36230 has survived the infection!
+>>> person # 57055 has survived the infection!
+>>> person # 16975 has survived the infection!
+>>> person # 63149 has survived the infection!
+>>> person # 93201 has survived the infection!
+
+=========================
+cycle # 6 has ended...
+cycle # 7 is starting!
+=========================
+
+
+------ person # 45898 ------
+vaccinated person # 43707 is protected
+
+------ person # 48146 ------
+person # 48146 infected person # 72908!
+
+------ person # 84093 ------
+person # 84093 infected person # 82391!
+
+<><><> Computing Deaths <><><>
+
+>>> person # 45898 has survived the infection!
+>>> person # 48146 has survived the infection!
+>>> person # 84093 has survived the infection!
+
+=========================
+cycle # 7 has ended...
+cycle # 8 is starting!
+=========================
+
+
+------ person # 72908 ------
+vaccinated person # 45044 is protected
+
+------ person # 82391 ------
+person # 82391 infected person # 49238!
+
+<><><> Computing Deaths <><><>
+
+>>> person # 72908 has survived the infection!
+>>> person # 82391 has survived the infection!
+
+=========================
+cycle # 8 has ended...
+cycle # 9 is starting!
+=========================
+
+
+------ person # 49238 ------
+person # 49238 infected person # 85825!
+
+<><><> Computing Deaths <><><>
+
+>>> person # 49238 has survived the infection!
+
+=========================
+cycle # 9 has ended...
+cycle # 10 is starting!
+=========================
+
+
+------ person # 85825 ------
+lucky person # 80943 didn't get sick
+
+<><><> Computing Deaths <><><>
+
+>>> person # 85825 has survived the infection!
+
+=========================
+cycle # 10 has ended...
+
+~~~~~~~~ RESULTS ~~~~~~~~
+ starting population: 96201
+finishing population: 96197
+  touched by disease: 406
+    number of deaths: 4
+=========================

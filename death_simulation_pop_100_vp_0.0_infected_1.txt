@@ -1,0 +1,614 @@
+100	0.0	death	1.0	1.0
+
+=========================
+ population_size: 100
+vaccination_rate: 0.0
+      virus_name: death
+  mortality_rate: 1.0
+  infection_rate: 1.0
+initial_infected: 1
+num_interactions: 2
+
+cycle # 1 is starting!
+=========================
+
+
+------ person # 1 ------
+person # 1 infected person # 2!
+person # 1 infected person # 89!
+
+<><><> Computing Deaths <><><>
+
+>>> person # 1 has died...rest in peace...
+
+=========================
+cycle # 1 has ended...
+cycle # 2 is starting!
+=========================
+
+
+------ person # 2 ------
+person # 2 infected person # 35!
+person # 2 infected person # 100!
+
+------ person # 89 ------
+person # 89 infected person # 56!
+person # 89 infected person # 21!
+
+<><><> Computing Deaths <><><>
+
+>>> person # 2 has died...rest in peace...
+>>> person # 89 has died...rest in peace...
+
+=========================
+cycle # 2 has ended...
+cycle # 3 is starting!
+=========================
+
+
+------ person # 21 ------
+person # 21 infected person # 65!
+person # 21 infected person # 99!
+
+------ person # 35 ------
+person # 35 infected person # 81!
+person # 35 infected person # 39!
+
+------ person # 56 ------
+person # 56 infected person # 26!
+person # 56 infected person # 20!
+
+------ person # 100 ------
+person # 100 infected person # 68!
+person # 100 infected person # 79!
+
+<><><> Computing Deaths <><><>
+
+>>> person # 35 has died...rest in peace...
+>>> person # 100 has died...rest in peace...
+>>> person # 56 has died...rest in peace...
+>>> person # 21 has died...rest in peace...
+
+=========================
+cycle # 3 has ended...
+cycle # 4 is starting!
+=========================
+
+
+------ person # 20 ------
+person # 20 infected person # 8!
+person # 20 infected person # 32!
+
+------ person # 26 ------
+person # 26 infected person # 11!
+person # 26 infected person # 95!
+
+------ person # 39 ------
+person # 39 infected person # 98!
+person # 39 infected person # 69!
+
+------ person # 65 ------
+person # 65 infected person # 61!
+person # 65 infected person # 72!
+
+------ person # 68 ------
+person # 68 infected person # 78!
+person # 68 infected person # 55!
+
+------ person # 79 ------
+person # 79 infected person # 97!
+person # 79 infected person # 94!
+
+------ person # 81 ------
+person # 81 infected person # 52!
+person # 81 infected person # 87!
+
+------ person # 99 ------
+person # 99 infected person # 67!
+person # 99 infected person # 58!
+
+<><><> Computing Deaths <><><>
+
+>>> person # 65 has died...rest in peace...
+>>> person # 99 has died...rest in peace...
+>>> person # 81 has died...rest in peace...
+>>> person # 39 has died...rest in peace...
+>>> person # 26 has died...rest in peace...
+>>> person # 20 has died...rest in peace...
+>>> person # 68 has died...rest in peace...
+>>> person # 79 has died...rest in peace...
+
+=========================
+cycle # 4 has ended...
+cycle # 5 is starting!
+=========================
+
+
+------ person # 8 ------
+person # 8 infected person # 43!
+person # 8 infected person # 10!
+
+------ person # 11 ------
+person # 11 infected person # 63!
+person # 11 infected person # 28!
+
+------ person # 32 ------
+person # 32 infected person # 74!
+person # 32 infected person # 75!
+
+------ person # 52 ------
+person # 52 infected person # 53!
+person # 52 infected person # 25!
+
+------ person # 55 ------
+person # 55 infected person # 46!
+person # 55 infected person # 54!
+
+------ person # 58 ------
+person # 87 is already diseased
+person # 58 infected person # 84!
+
+------ person # 61 ------
+person # 61 infected person # 13!
+person # 8 is already diseased
+
+------ person # 67 ------
+person # 67 infected person # 44!
+person # 67 infected person # 14!
+
+------ person # 69 ------
+person # 58 is already diseased
+person # 69 infected person # 18!
+
+------ person # 72 ------
+person # 72 infected person # 36!
+person # 61 is already diseased
+
+------ person # 78 ------
+person # 10 is already diseased
+person # 58 is already diseased
+
+------ person # 87 ------
+person # 87 infected person # 71!
+person # 13 is already diseased
+
+------ person # 94 ------
+person # 94 infected person # 70!
+person # 13 is already diseased
+
+------ person # 95 ------
+person # 95 infected person # 31!
+person # 95 infected person # 22!
+
+------ person # 97 ------
+person # 52 is already diseased
+person # 8 is already diseased
+
+------ person # 98 ------
+person # 22 is already diseased
+person # 98 infected person # 50!
+
+<><><> Computing Deaths <><><>
+
+>>> person # 8 has died...rest in peace...
+>>> person # 32 has died...rest in peace...
+>>> person # 11 has died...rest in peace...
+>>> person # 95 has died...rest in peace...
+>>> person # 98 has died...rest in peace...
+>>> person # 69 has died...rest in peace...
+>>> person # 61 has died...rest in peace...
+>>> person # 72 has died...rest in peace...
+>>> person # 78 has died...rest in peace...
+>>> person # 55 has died...rest in peace...
+>>> person # 97 has died...rest in peace...
+>>> person # 94 has died...rest in peace...
+>>> person # 52 has died...rest in peace...
+>>> person # 87 has died...rest in peace...
+>>> person # 67 has died...rest in peace...
+>>> person # 58 has died...rest in peace...
+
+=========================
+cycle # 5 has ended...
+cycle # 6 is starting!
+=========================
+
+
+------ person # 10 ------
+person # 10 infected person # 62!
+person # 10 infected person # 66!
+
+------ person # 13 ------
+person # 13 infected person # 12!
+person # 10 is already diseased
+
+------ person # 14 ------
+person # 31 is already diseased
+person # 53 is already diseased
+
+------ person # 18 ------
+person # 18 infected person # 16!
+person # 74 is already diseased
+
+------ person # 22 ------
+person # 22 infected person # 77!
+person # 22 infected person # 6!
+
+------ person # 25 ------
+person # 75 is already diseased
+person # 25 infected person # 73!
+
+------ person # 28 ------
+person # 28 infected person # 34!
+person # 28 infected person # 27!
+
+------ person # 31 ------
+person # 34 is already diseased
+person # 31 infected person # 17!
+
+------ person # 36 ------
+person # 36 infected person # 60!
+person # 36 infected person # 42!
+
+------ person # 43 ------
+person # 60 is already diseased
+person # 43 infected person # 82!
+
+------ person # 44 ------
+person # 13 is already diseased
+person # 10 is already diseased
+
+------ person # 46 ------
+person # 28 is already diseased
+person # 66 is already diseased
+
+------ person # 50 ------
+person # 34 is already diseased
+person # 17 is already diseased
+
+------ person # 53 ------
+person # 53 infected person # 45!
+person # 53 infected person # 9!
+
+------ person # 54 ------
+person # 54 infected person # 40!
+person # 54 infected person # 83!
+
+------ person # 63 ------
+person # 63 infected person # 88!
+person # 73 is already diseased
+
+------ person # 70 ------
+person # 70 infected person # 85!
+person # 14 is already diseased
+
+------ person # 71 ------
+person # 18 is already diseased
+person # 71 infected person # 15!
+
+------ person # 74 ------
+person # 74 infected person # 96!
+person # 71 is already diseased
+
+------ person # 75 ------
+person # 75 infected person # 37!
+person # 27 is already diseased
+
+------ person # 84 ------
+person # 27 is already diseased
+person # 83 is already diseased
+
+<><><> Computing Deaths <><><>
+
+>>> person # 43 has died...rest in peace...
+>>> person # 10 has died...rest in peace...
+>>> person # 63 has died...rest in peace...
+>>> person # 28 has died...rest in peace...
+>>> person # 74 has died...rest in peace...
+>>> person # 75 has died...rest in peace...
+>>> person # 53 has died...rest in peace...
+>>> person # 25 has died...rest in peace...
+>>> person # 46 has died...rest in peace...
+>>> person # 54 has died...rest in peace...
+>>> person # 84 has died...rest in peace...
+>>> person # 13 has died...rest in peace...
+>>> person # 44 has died...rest in peace...
+>>> person # 14 has died...rest in peace...
+>>> person # 18 has died...rest in peace...
+>>> person # 36 has died...rest in peace...
+>>> person # 71 has died...rest in peace...
+>>> person # 70 has died...rest in peace...
+>>> person # 31 has died...rest in peace...
+>>> person # 22 has died...rest in peace...
+>>> person # 50 has died...rest in peace...
+
+=========================
+cycle # 6 has ended...
+cycle # 7 is starting!
+=========================
+
+
+------ person # 6 ------
+person # 6 infected person # 19!
+person # 6 infected person # 57!
+
+------ person # 9 ------
+person # 6 is already diseased
+person # 9 infected person # 47!
+
+------ person # 12 ------
+person # 12 infected person # 48!
+person # 85 is already diseased
+
+------ person # 15 ------
+person # 15 infected person # 24!
+person # 15 infected person # 4!
+
+------ person # 16 ------
+person # 16 infected person # 5!
+person # 16 infected person # 33!
+
+------ person # 17 ------
+person # 45 is already diseased
+person # 40 is already diseased
+
+------ person # 27 ------
+person # 27 infected person # 30!
+person # 27 infected person # 29!
+
+------ person # 34 ------
+person # 9 is already diseased
+person # 34 infected person # 38!
+
+------ person # 37 ------
+person # 66 is already diseased
+person # 4 is already diseased
+
+------ person # 40 ------
+person # 15 is already diseased
+person # 24 is already diseased
+
+------ person # 42 ------
+person # 34 is already diseased
+person # 5 is already diseased
+
+------ person # 45 ------
+person # 57 is already diseased
+person # 42 is already diseased
+
+------ person # 60 ------
+person # 15 is already diseased
+person # 60 infected person # 51!
+
+------ person # 62 ------
+person # 34 is already diseased
+person # 6 is already diseased
+
+------ person # 66 ------
+person # 66 infected person # 91!
+person # 66 infected person # 93!
+
+------ person # 73 ------
+person # 73 infected person # 86!
+person # 48 is already diseased
+
+------ person # 77 ------
+person # 86 is already diseased
+person # 77 infected person # 41!
+
+------ person # 82 ------
+person # 16 is already diseased
+person # 40 is already diseased
+
+------ person # 83 ------
+person # 40 is already diseased
+person # 88 is already diseased
+
+------ person # 85 ------
+person # 42 is already diseased
+person # 93 is already diseased
+
+------ person # 88 ------
+person # 38 is already diseased
+person # 17 is already diseased
+
+------ person # 96 ------
+person # 88 is already diseased
+person # 91 is already diseased
+
+<><><> Computing Deaths <><><>
+
+>>> person # 62 has died...rest in peace...
+>>> person # 66 has died...rest in peace...
+>>> person # 12 has died...rest in peace...
+>>> person # 16 has died...rest in peace...
+>>> person # 77 has died...rest in peace...
+>>> person # 6 has died...rest in peace...
+>>> person # 73 has died...rest in peace...
+>>> person # 34 has died...rest in peace...
+>>> person # 27 has died...rest in peace...
+>>> person # 17 has died...rest in peace...
+>>> person # 60 has died...rest in peace...
+>>> person # 42 has died...rest in peace...
+>>> person # 82 has died...rest in peace...
+>>> person # 45 has died...rest in peace...
+>>> person # 9 has died...rest in peace...
+>>> person # 40 has died...rest in peace...
+>>> person # 83 has died...rest in peace...
+>>> person # 88 has died...rest in peace...
+>>> person # 85 has died...rest in peace...
+>>> person # 15 has died...rest in peace...
+>>> person # 96 has died...rest in peace...
+>>> person # 37 has died...rest in peace...
+
+=========================
+cycle # 7 has ended...
+cycle # 8 is starting!
+=========================
+
+
+------ person # 4 ------
+person # 41 is already diseased
+person # 29 is already diseased
+
+------ person # 5 ------
+person # 19 is already diseased
+person # 4 is already diseased
+
+------ person # 19 ------
+person # 33 is already diseased
+person # 57 is already diseased
+
+------ person # 24 ------
+person # 93 is already diseased
+person # 51 is already diseased
+
+------ person # 29 ------
+person # 29 infected person # 64!
+person # 19 is already diseased
+
+------ person # 30 ------
+person # 57 is already diseased
+person # 30 infected person # 80!
+
+------ person # 33 ------
+person # 19 is already diseased
+person # 33 infected person # 90!
+
+------ person # 38 ------
+person # 41 is already diseased
+person # 38 infected person # 76!
+
+------ person # 41 ------
+person # 41 infected person # 59!
+person # 33 is already diseased
+
+------ person # 47 ------
+person # 64 is already diseased
+person # 38 is already diseased
+
+------ person # 48 ------
+person # 57 is already diseased
+person # 38 is already diseased
+
+------ person # 51 ------
+person # 19 is already diseased
+person # 51 infected person # 23!
+
+------ person # 57 ------
+person # 64 is already diseased
+person # 29 is already diseased
+
+------ person # 86 ------
+person # 93 is already diseased
+person # 86 infected person # 3!
+
+------ person # 91 ------
+person # 91 infected person # 49!
+person # 47 is already diseased
+
+------ person # 93 ------
+person # 29 is already diseased
+person # 30 is already diseased
+
+<><><> Computing Deaths <><><>
+
+>>> person # 19 has died...rest in peace...
+>>> person # 57 has died...rest in peace...
+>>> person # 47 has died...rest in peace...
+>>> person # 48 has died...rest in peace...
+>>> person # 24 has died...rest in peace...
+>>> person # 4 has died...rest in peace...
+>>> person # 5 has died...rest in peace...
+>>> person # 33 has died...rest in peace...
+>>> person # 30 has died...rest in peace...
+>>> person # 29 has died...rest in peace...
+>>> person # 38 has died...rest in peace...
+>>> person # 51 has died...rest in peace...
+>>> person # 91 has died...rest in peace...
+>>> person # 93 has died...rest in peace...
+>>> person # 86 has died...rest in peace...
+>>> person # 41 has died...rest in peace...
+
+=========================
+cycle # 8 has ended...
+cycle # 9 is starting!
+=========================
+
+
+------ person # 3 ------
+person # 3 infected person # 7!
+person # 64 is already diseased
+
+------ person # 23 ------
+person # 3 is already diseased
+person # 7 is already diseased
+
+------ person # 49 ------
+person # 3 is already diseased
+person # 23 is already diseased
+
+------ person # 59 ------
+person # 90 is already diseased
+person # 49 is already diseased
+
+------ person # 64 ------
+person # 59 is already diseased
+person # 49 is already diseased
+
+------ person # 76 ------
+person # 59 is already diseased
+person # 90 is already diseased
+
+------ person # 80 ------
+person # 59 is already diseased
+person # 49 is already diseased
+
+------ person # 90 ------
+person # 59 is already diseased
+person # 3 is already diseased
+
+<><><> Computing Deaths <><><>
+
+>>> person # 64 has died...rest in peace...
+>>> person # 80 has died...rest in peace...
+>>> person # 90 has died...rest in peace...
+>>> person # 76 has died...rest in peace...
+>>> person # 59 has died...rest in peace...
+>>> person # 23 has died...rest in peace...
+>>> person # 3 has died...rest in peace...
+>>> person # 49 has died...rest in peace...
+
+=========================
+cycle # 9 has ended...
+cycle # 10 is starting!
+=========================
+
+
+------ person # 7 ------
+person # 7 infected person # 92!
+
+<><><> Computing Deaths <><><>
+
+>>> person # 7 has died...rest in peace...
+
+=========================
+cycle # 10 has ended...
+cycle # 11 is starting!
+=========================
+
+
+------ person # 92 ------
+
+<><><> Computing Deaths <><><>
+
+>>> person # 92 has died...rest in peace...
+
+=========================
+cycle # 11 has ended...
+
+~~~~~~~~ RESULTS ~~~~~~~~
+ starting population: 100
+finishing population: 0
+  touched by disease: 100
+    number of deaths: 100
+=========================

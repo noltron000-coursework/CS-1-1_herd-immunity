@@ -1,0 +1,31 @@
+1000	0.125	coinflip	0.5	0.25
+
+=========================
+ population_size: 1000
+vaccination_rate: 0.125
+      virus_name: coinflip
+  mortality_rate: 0.5
+  infection_rate: 0.25
+initial_infected: 1
+num_interactions: 1
+
+cycle # 1 is starting!
+=========================
+
+
+------ person # 1 ------
+lucky person # 876 didn't get sick
+
+<><><> Computing Deaths <><><>
+
+>>> person # 1 has survived the infection!
+
+=========================
+cycle # 1 has ended...
+
+~~~~~~~~ RESULTS ~~~~~~~~
+ starting population: 1000
+finishing population: 1000
+  touched by disease: 1
+    number of deaths: 0
+=========================

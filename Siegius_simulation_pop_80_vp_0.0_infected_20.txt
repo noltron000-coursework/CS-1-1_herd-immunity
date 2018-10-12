@@ -1,0 +1,1126 @@
+80	0.0	Siegius	0.8	0.2
+
+=========================
+ population_size: 80
+vaccination_rate: 0.0
+      virus_name: Siegius
+  mortality_rate: 0.8
+  infection_rate: 0.2
+initial_infected: 20
+num_interactions: 12
+
+cycle # 1 is starting!
+=========================
+
+
+------ person # 1 ------
+lucky person # 64 didn't get sick
+lucky person # 75 didn't get sick
+lucky person # 63 didn't get sick
+lucky person # 76 didn't get sick
+person # 1 infected person # 69!
+person # 1 infected person # 68!
+person # 17 is already diseased
+lucky person # 72 didn't get sick
+person # 8 is already diseased
+person # 7 is already diseased
+lucky person # 29 didn't get sick
+lucky person # 45 didn't get sick
+
+------ person # 2 ------
+lucky person # 58 didn't get sick
+lucky person # 52 didn't get sick
+person # 13 is already diseased
+lucky person # 45 didn't get sick
+lucky person # 74 didn't get sick
+person # 2 infected person # 60!
+lucky person # 71 didn't get sick
+lucky person # 57 didn't get sick
+lucky person # 26 didn't get sick
+person # 7 is already diseased
+lucky person # 67 didn't get sick
+person # 2 infected person # 27!
+
+------ person # 3 ------
+person # 3 infected person # 45!
+lucky person # 77 didn't get sick
+lucky person # 34 didn't get sick
+lucky person # 65 didn't get sick
+lucky person # 36 didn't get sick
+lucky person # 78 didn't get sick
+person # 3 infected person # 35!
+lucky person # 38 didn't get sick
+lucky person # 23 didn't get sick
+person # 8 is already diseased
+lucky person # 74 didn't get sick
+person # 15 is already diseased
+
+------ person # 4 ------
+lucky person # 48 didn't get sick
+person # 17 is already diseased
+lucky person # 32 didn't get sick
+person # 4 infected person # 40!
+person # 4 infected person # 58!
+lucky person # 71 didn't get sick
+lucky person # 43 didn't get sick
+lucky person # 44 didn't get sick
+lucky person # 76 didn't get sick
+lucky person # 29 didn't get sick
+person # 60 is already diseased
+person # 7 is already diseased
+
+------ person # 5 ------
+lucky person # 79 didn't get sick
+person # 16 is already diseased
+lucky person # 75 didn't get sick
+person # 17 is already diseased
+person # 1 is already diseased
+lucky person # 55 didn't get sick
+lucky person # 70 didn't get sick
+person # 58 is already diseased
+person # 7 is already diseased
+lucky person # 78 didn't get sick
+lucky person # 24 didn't get sick
+lucky person # 59 didn't get sick
+
+------ person # 6 ------
+person # 60 is already diseased
+lucky person # 34 didn't get sick
+person # 8 is already diseased
+lucky person # 39 didn't get sick
+lucky person # 42 didn't get sick
+person # 1 is already diseased
+person # 13 is already diseased
+person # 6 infected person # 66!
+lucky person # 76 didn't get sick
+lucky person # 59 didn't get sick
+person # 58 is already diseased
+lucky person # 52 didn't get sick
+
+------ person # 7 ------
+lucky person # 67 didn't get sick
+lucky person # 29 didn't get sick
+lucky person # 79 didn't get sick
+lucky person # 47 didn't get sick
+person # 12 is already diseased
+person # 7 infected person # 59!
+person # 40 is already diseased
+person # 20 is already diseased
+lucky person # 49 didn't get sick
+lucky person # 80 didn't get sick
+lucky person # 32 didn't get sick
+person # 1 is already diseased
+
+------ person # 8 ------
+lucky person # 80 didn't get sick
+person # 8 infected person # 47!
+person # 69 is already diseased
+person # 8 infected person # 36!
+person # 5 is already diseased
+lucky person # 33 didn't get sick
+person # 8 infected person # 73!
+person # 16 is already diseased
+person # 45 is already diseased
+person # 19 is already diseased
+person # 8 infected person # 50!
+person # 20 is already diseased
+
+------ person # 9 ------
+person # 9 infected person # 21!
+lucky person # 53 didn't get sick
+lucky person # 71 didn't get sick
+lucky person # 77 didn't get sick
+person # 5 is already diseased
+lucky person # 44 didn't get sick
+lucky person # 24 didn't get sick
+lucky person # 51 didn't get sick
+lucky person # 38 didn't get sick
+person # 6 is already diseased
+person # 18 is already diseased
+person # 69 is already diseased
+
+------ person # 10 ------
+lucky person # 29 didn't get sick
+lucky person # 25 didn't get sick
+lucky person # 23 didn't get sick
+lucky person # 43 didn't get sick
+lucky person # 37 didn't get sick
+lucky person # 49 didn't get sick
+person # 18 is already diseased
+person # 13 is already diseased
+lucky person # 26 didn't get sick
+person # 10 infected person # 44!
+lucky person # 77 didn't get sick
+person # 10 infected person # 46!
+
+------ person # 11 ------
+person # 46 is already diseased
+lucky person # 63 didn't get sick
+lucky person # 37 didn't get sick
+person # 60 is already diseased
+lucky person # 55 didn't get sick
+lucky person # 64 didn't get sick
+person # 73 is already diseased
+person # 68 is already diseased
+person # 14 is already diseased
+person # 2 is already diseased
+person # 20 is already diseased
+lucky person # 33 didn't get sick
+
+------ person # 12 ------
+lucky person # 65 didn't get sick
+lucky person # 42 didn't get sick
+lucky person # 63 didn't get sick
+lucky person # 80 didn't get sick
+person # 13 is already diseased
+lucky person # 79 didn't get sick
+person # 2 is already diseased
+person # 14 is already diseased
+lucky person # 39 didn't get sick
+person # 36 is already diseased
+person # 16 is already diseased
+person # 46 is already diseased
+
+------ person # 13 ------
+lucky person # 28 didn't get sick
+person # 58 is already diseased
+lucky person # 77 didn't get sick
+lucky person # 37 didn't get sick
+lucky person # 30 didn't get sick
+person # 66 is already diseased
+lucky person # 79 didn't get sick
+lucky person # 31 didn't get sick
+person # 45 is already diseased
+lucky person # 75 didn't get sick
+person # 10 is already diseased
+person # 60 is already diseased
+
+------ person # 14 ------
+person # 18 is already diseased
+person # 14 infected person # 72!
+person # 2 is already diseased
+lucky person # 39 didn't get sick
+lucky person # 70 didn't get sick
+person # 9 is already diseased
+person # 4 is already diseased
+lucky person # 55 didn't get sick
+person # 21 is already diseased
+person # 59 is already diseased
+lucky person # 57 didn't get sick
+person # 47 is already diseased
+
+------ person # 15 ------
+lucky person # 30 didn't get sick
+person # 44 is already diseased
+person # 40 is already diseased
+lucky person # 29 didn't get sick
+person # 15 infected person # 62!
+lucky person # 43 didn't get sick
+person # 72 is already diseased
+lucky person # 65 didn't get sick
+person # 68 is already diseased
+person # 3 is already diseased
+person # 12 is already diseased
+lucky person # 38 didn't get sick
+
+------ person # 16 ------
+person # 68 is already diseased
+person # 47 is already diseased
+person # 40 is already diseased
+person # 1 is already diseased
+person # 16 infected person # 79!
+lucky person # 51 didn't get sick
+person # 7 is already diseased
+lucky person # 49 didn't get sick
+person # 5 is already diseased
+person # 45 is already diseased
+lucky person # 75 didn't get sick
+lucky person # 52 didn't get sick
+
+------ person # 17 ------
+person # 47 is already diseased
+lucky person # 48 didn't get sick
+lucky person # 38 didn't get sick
+person # 66 is already diseased
+person # 73 is already diseased
+person # 62 is already diseased
+person # 50 is already diseased
+person # 59 is already diseased
+lucky person # 63 didn't get sick
+lucky person # 78 didn't get sick
+person # 40 is already diseased
+person # 45 is already diseased
+
+------ person # 18 ------
+lucky person # 56 didn't get sick
+lucky person # 49 didn't get sick
+person # 19 is already diseased
+lucky person # 63 didn't get sick
+person # 6 is already diseased
+lucky person # 52 didn't get sick
+lucky person # 24 didn't get sick
+lucky person # 70 didn't get sick
+person # 13 is already diseased
+lucky person # 30 didn't get sick
+lucky person # 34 didn't get sick
+person # 36 is already diseased
+
+------ person # 19 ------
+person # 14 is already diseased
+person # 36 is already diseased
+person # 27 is already diseased
+person # 19 infected person # 74!
+person # 3 is already diseased
+person # 50 is already diseased
+person # 72 is already diseased
+person # 19 infected person # 31!
+person # 44 is already diseased
+lucky person # 61 didn't get sick
+person # 62 is already diseased
+person # 47 is already diseased
+
+------ person # 20 ------
+person # 9 is already diseased
+person # 44 is already diseased
+person # 79 is already diseased
+person # 73 is already diseased
+lucky person # 57 didn't get sick
+person # 59 is already diseased
+person # 27 is already diseased
+person # 40 is already diseased
+lucky person # 63 didn't get sick
+person # 62 is already diseased
+lucky person # 61 didn't get sick
+person # 31 is already diseased
+
+=========================
+cycle # 1 has ended...
+cycle # 2 is starting!
+=========================
+
+
+------ person # 21 ------
+person # 62 is already diseased
+person # 69 is already diseased
+lucky person # 23 didn't get sick
+person # 44 is already diseased
+lucky person # 43 didn't get sick
+person # 50 is already diseased
+lucky person # 28 didn't get sick
+person # 79 is already diseased
+person # 47 is already diseased
+lucky person # 71 didn't get sick
+lucky person # 49 didn't get sick
+lucky person # 70 didn't get sick
+
+------ person # 27 ------
+lucky person # 41 didn't get sick
+lucky person # 77 didn't get sick
+lucky person # 70 didn't get sick
+person # 47 is already diseased
+lucky person # 43 didn't get sick
+lucky person # 38 didn't get sick
+person # 74 is already diseased
+person # 21 is already diseased
+person # 45 is already diseased
+lucky person # 37 didn't get sick
+person # 68 is already diseased
+person # 66 is already diseased
+
+------ person # 31 ------
+lucky person # 80 didn't get sick
+lucky person # 78 didn't get sick
+person # 31 infected person # 43!
+person # 35 is already diseased
+lucky person # 56 didn't get sick
+person # 66 is already diseased
+person # 62 is already diseased
+person # 44 is already diseased
+lucky person # 70 didn't get sick
+person # 60 is already diseased
+lucky person # 65 didn't get sick
+lucky person # 42 didn't get sick
+
+------ person # 35 ------
+lucky person # 41 didn't get sick
+lucky person # 53 didn't get sick
+lucky person # 42 didn't get sick
+person # 43 is already diseased
+lucky person # 32 didn't get sick
+lucky person # 76 didn't get sick
+person # 44 is already diseased
+lucky person # 49 didn't get sick
+person # 74 is already diseased
+lucky person # 22 didn't get sick
+lucky person # 71 didn't get sick
+lucky person # 24 didn't get sick
+
+------ person # 36 ------
+person # 27 is already diseased
+person # 79 is already diseased
+lucky person # 61 didn't get sick
+person # 36 infected person # 56!
+person # 36 infected person # 29!
+person # 47 is already diseased
+lucky person # 63 didn't get sick
+person # 40 is already diseased
+lucky person # 42 didn't get sick
+person # 45 is already diseased
+lucky person # 54 didn't get sick
+person # 35 is already diseased
+
+------ person # 40 ------
+person # 40 infected person # 57!
+person # 40 infected person # 80!
+lucky person # 53 didn't get sick
+lucky person # 75 didn't get sick
+person # 68 is already diseased
+person # 21 is already diseased
+lucky person # 71 didn't get sick
+person # 79 is already diseased
+person # 74 is already diseased
+person # 35 is already diseased
+lucky person # 34 didn't get sick
+lucky person # 63 didn't get sick
+
+------ person # 44 ------
+person # 21 is already diseased
+lucky person # 42 didn't get sick
+person # 57 is already diseased
+lucky person # 37 didn't get sick
+lucky person # 23 didn't get sick
+lucky person # 55 didn't get sick
+lucky person # 53 didn't get sick
+person # 29 is already diseased
+lucky person # 61 didn't get sick
+lucky person # 70 didn't get sick
+person # 59 is already diseased
+person # 44 infected person # 41!
+
+------ person # 45 ------
+person # 36 is already diseased
+lucky person # 61 didn't get sick
+person # 47 is already diseased
+person # 80 is already diseased
+person # 21 is already diseased
+person # 44 is already diseased
+lucky person # 33 didn't get sick
+lucky person # 75 didn't get sick
+lucky person # 49 didn't get sick
+lucky person # 25 didn't get sick
+person # 46 is already diseased
+person # 79 is already diseased
+
+------ person # 46 ------
+person # 46 infected person # 65!
+lucky person # 32 didn't get sick
+lucky person # 55 didn't get sick
+lucky person # 52 didn't get sick
+lucky person # 28 didn't get sick
+lucky person # 78 didn't get sick
+lucky person # 61 didn't get sick
+lucky person # 22 didn't get sick
+lucky person # 33 didn't get sick
+person # 31 is already diseased
+lucky person # 26 didn't get sick
+person # 69 is already diseased
+
+------ person # 47 ------
+person # 58 is already diseased
+person # 79 is already diseased
+lucky person # 32 didn't get sick
+person # 69 is already diseased
+lucky person # 55 didn't get sick
+lucky person # 51 didn't get sick
+lucky person # 48 didn't get sick
+person # 36 is already diseased
+lucky person # 78 didn't get sick
+person # 68 is already diseased
+lucky person # 25 didn't get sick
+lucky person # 64 didn't get sick
+
+------ person # 50 ------
+lucky person # 55 didn't get sick
+person # 45 is already diseased
+lucky person # 39 didn't get sick
+lucky person # 52 didn't get sick
+lucky person # 75 didn't get sick
+lucky person # 67 didn't get sick
+lucky person # 34 didn't get sick
+lucky person # 71 didn't get sick
+person # 44 is already diseased
+lucky person # 24 didn't get sick
+lucky person # 63 didn't get sick
+person # 65 is already diseased
+
+------ person # 58 ------
+vaccinated person # 1 is protected
+lucky person # 70 didn't get sick
+person # 27 is already diseased
+person # 21 is already diseased
+person # 72 is already diseased
+lucky person # 67 didn't get sick
+person # 41 is already diseased
+person # 69 is already diseased
+lucky person # 28 didn't get sick
+lucky person # 64 didn't get sick
+person # 57 is already diseased
+lucky person # 52 didn't get sick
+
+------ person # 59 ------
+person # 60 is already diseased
+person # 44 is already diseased
+person # 74 is already diseased
+person # 47 is already diseased
+lucky person # 77 didn't get sick
+person # 29 is already diseased
+person # 73 is already diseased
+person # 59 infected person # 61!
+lucky person # 24 didn't get sick
+person # 72 is already diseased
+lucky person # 34 didn't get sick
+lucky person # 28 didn't get sick
+
+------ person # 60 ------
+person # 60 infected person # 76!
+lucky person # 55 didn't get sick
+person # 72 is already diseased
+person # 60 infected person # 37!
+person # 47 is already diseased
+person # 66 is already diseased
+lucky person # 53 didn't get sick
+lucky person # 67 didn't get sick
+lucky person # 34 didn't get sick
+person # 44 is already diseased
+lucky person # 77 didn't get sick
+person # 46 is already diseased
+
+------ person # 62 ------
+person # 74 is already diseased
+person # 65 is already diseased
+person # 41 is already diseased
+lucky person # 28 didn't get sick
+lucky person # 67 didn't get sick
+person # 80 is already diseased
+lucky person # 30 didn't get sick
+lucky person # 23 didn't get sick
+person # 35 is already diseased
+person # 21 is already diseased
+lucky person # 51 didn't get sick
+person # 60 is already diseased
+
+------ person # 66 ------
+person # 50 is already diseased
+person # 37 is already diseased
+person # 58 is already diseased
+lucky person # 71 didn't get sick
+lucky person # 28 didn't get sick
+person # 46 is already diseased
+person # 31 is already diseased
+lucky person # 70 didn't get sick
+vaccinated person # 1 is protected
+lucky person # 64 didn't get sick
+lucky person # 30 didn't get sick
+person # 45 is already diseased
+
+------ person # 68 ------
+person # 79 is already diseased
+lucky person # 55 didn't get sick
+lucky person # 33 didn't get sick
+person # 65 is already diseased
+person # 73 is already diseased
+person # 57 is already diseased
+person # 62 is already diseased
+person # 50 is already diseased
+person # 68 infected person # 77!
+lucky person # 25 didn't get sick
+person # 35 is already diseased
+lucky person # 49 didn't get sick
+
+------ person # 69 ------
+lucky person # 48 didn't get sick
+person # 45 is already diseased
+lucky person # 24 didn't get sick
+lucky person # 42 didn't get sick
+lucky person # 64 didn't get sick
+person # 62 is already diseased
+person # 41 is already diseased
+person # 40 is already diseased
+person # 43 is already diseased
+person # 69 infected person # 49!
+person # 59 is already diseased
+person # 61 is already diseased
+
+------ person # 72 ------
+person # 21 is already diseased
+person # 77 is already diseased
+person # 79 is already diseased
+person # 57 is already diseased
+person # 72 infected person # 48!
+person # 59 is already diseased
+person # 60 is already diseased
+person # 40 is already diseased
+lucky person # 32 didn't get sick
+lucky person # 34 didn't get sick
+lucky person # 63 didn't get sick
+vaccinated person # 1 is protected
+
+------ person # 73 ------
+lucky person # 70 didn't get sick
+lucky person # 26 didn't get sick
+lucky person # 67 didn't get sick
+person # 56 is already diseased
+person # 79 is already diseased
+person # 41 is already diseased
+lucky person # 25 didn't get sick
+person # 80 is already diseased
+person # 35 is already diseased
+person # 37 is already diseased
+person # 57 is already diseased
+person # 59 is already diseased
+
+------ person # 74 ------
+person # 37 is already diseased
+lucky person # 34 didn't get sick
+person # 74 infected person # 53!
+lucky person # 24 didn't get sick
+lucky person # 39 didn't get sick
+lucky person # 52 didn't get sick
+person # 80 is already diseased
+person # 35 is already diseased
+lucky person # 78 didn't get sick
+person # 74 infected person # 23!
+lucky person # 75 didn't get sick
+lucky person # 38 didn't get sick
+
+------ person # 79 ------
+lucky person # 34 didn't get sick
+vaccinated person # 1 is protected
+person # 43 is already diseased
+lucky person # 71 didn't get sick
+lucky person # 54 didn't get sick
+lucky person # 28 didn't get sick
+lucky person # 64 didn't get sick
+person # 40 is already diseased
+person # 58 is already diseased
+person # 44 is already diseased
+person # 45 is already diseased
+person # 79 infected person # 38!
+
+=========================
+cycle # 2 has ended...
+cycle # 3 is starting!
+=========================
+
+
+------ person # 23 ------
+person # 41 is already diseased
+vaccinated person # 1 is protected
+person # 43 is already diseased
+lucky person # 64 didn't get sick
+vaccinated person # 73 is protected
+lucky person # 24 didn't get sick
+lucky person # 75 didn't get sick
+lucky person # 39 didn't get sick
+person # 38 is already diseased
+person # 77 is already diseased
+lucky person # 67 didn't get sick
+lucky person # 54 didn't get sick
+
+------ person # 29 ------
+lucky person # 54 didn't get sick
+person # 61 is already diseased
+lucky person # 39 didn't get sick
+person # 38 is already diseased
+vaccinated person # 58 is protected
+lucky person # 24 didn't get sick
+person # 29 infected person # 26!
+person # 23 is already diseased
+lucky person # 30 didn't get sick
+person # 57 is already diseased
+lucky person # 63 didn't get sick
+lucky person # 67 didn't get sick
+
+------ person # 37 ------
+person # 37 infected person # 30!
+person # 53 is already diseased
+lucky person # 51 didn't get sick
+person # 65 is already diseased
+person # 41 is already diseased
+lucky person # 70 didn't get sick
+lucky person # 64 didn't get sick
+vaccinated person # 73 is protected
+lucky person # 54 didn't get sick
+lucky person # 28 didn't get sick
+person # 61 is already diseased
+person # 57 is already diseased
+
+------ person # 38 ------
+lucky person # 54 didn't get sick
+person # 49 is already diseased
+lucky person # 32 didn't get sick
+person # 61 is already diseased
+lucky person # 25 didn't get sick
+vaccinated person # 73 is protected
+vaccinated person # 60 is protected
+lucky person # 22 didn't get sick
+lucky person # 63 didn't get sick
+lucky person # 78 didn't get sick
+lucky person # 24 didn't get sick
+lucky person # 42 didn't get sick
+
+------ person # 41 ------
+lucky person # 52 didn't get sick
+lucky person # 28 didn't get sick
+lucky person # 54 didn't get sick
+person # 41 infected person # 55!
+lucky person # 78 didn't get sick
+person # 41 infected person # 22!
+person # 30 is already diseased
+lucky person # 42 didn't get sick
+vaccinated person # 73 is protected
+lucky person # 51 didn't get sick
+lucky person # 64 didn't get sick
+vaccinated person # 60 is protected
+
+------ person # 43 ------
+lucky person # 78 didn't get sick
+person # 41 is already diseased
+lucky person # 54 didn't get sick
+lucky person # 34 didn't get sick
+vaccinated person # 58 is protected
+lucky person # 64 didn't get sick
+person # 43 infected person # 42!
+lucky person # 24 didn't get sick
+lucky person # 51 didn't get sick
+lucky person # 39 didn't get sick
+person # 26 is already diseased
+person # 76 is already diseased
+
+------ person # 48 ------
+lucky person # 52 didn't get sick
+person # 61 is already diseased
+lucky person # 78 didn't get sick
+person # 42 is already diseased
+lucky person # 64 didn't get sick
+person # 80 is already diseased
+vaccinated person # 1 is protected
+person # 65 is already diseased
+lucky person # 54 didn't get sick
+person # 23 is already diseased
+lucky person # 34 didn't get sick
+lucky person # 71 didn't get sick
+
+------ person # 49 ------
+person # 30 is already diseased
+person # 42 is already diseased
+lucky person # 64 didn't get sick
+person # 23 is already diseased
+person # 53 is already diseased
+person # 56 is already diseased
+lucky person # 33 didn't get sick
+person # 43 is already diseased
+lucky person # 39 didn't get sick
+person # 76 is already diseased
+vaccinated person # 60 is protected
+person # 38 is already diseased
+
+------ person # 53 ------
+lucky person # 75 didn't get sick
+person # 23 is already diseased
+person # 37 is already diseased
+person # 77 is already diseased
+person # 53 infected person # 54!
+person # 26 is already diseased
+vaccinated person # 58 is protected
+person # 43 is already diseased
+lucky person # 67 didn't get sick
+lucky person # 70 didn't get sick
+person # 38 is already diseased
+person # 55 is already diseased
+
+------ person # 56 ------
+lucky person # 75 didn't get sick
+lucky person # 39 didn't get sick
+lucky person # 64 didn't get sick
+vaccinated person # 73 is protected
+person # 56 infected person # 25!
+person # 57 is already diseased
+vaccinated person # 58 is protected
+person # 48 is already diseased
+lucky person # 71 didn't get sick
+person # 29 is already diseased
+lucky person # 52 didn't get sick
+lucky person # 32 didn't get sick
+
+------ person # 57 ------
+person # 26 is already diseased
+lucky person # 78 didn't get sick
+person # 61 is already diseased
+lucky person # 71 didn't get sick
+person # 57 infected person # 75!
+lucky person # 24 didn't get sick
+person # 42 is already diseased
+vaccinated person # 1 is protected
+person # 43 is already diseased
+person # 25 is already diseased
+person # 55 is already diseased
+lucky person # 28 didn't get sick
+
+------ person # 61 ------
+person # 76 is already diseased
+lucky person # 78 didn't get sick
+person # 65 is already diseased
+person # 29 is already diseased
+person # 22 is already diseased
+vaccinated person # 58 is protected
+lucky person # 28 didn't get sick
+person # 57 is already diseased
+person # 30 is already diseased
+person # 53 is already diseased
+person # 49 is already diseased
+person # 61 infected person # 70!
+
+------ person # 65 ------
+person # 26 is already diseased
+person # 37 is already diseased
+person # 57 is already diseased
+lucky person # 67 didn't get sick
+lucky person # 24 didn't get sick
+person # 65 infected person # 64!
+person # 55 is already diseased
+lucky person # 51 didn't get sick
+person # 29 is already diseased
+person # 25 is already diseased
+person # 80 is already diseased
+person # 76 is already diseased
+
+------ person # 76 ------
+lucky person # 52 didn't get sick
+lucky person # 78 didn't get sick
+person # 76 infected person # 71!
+person # 38 is already diseased
+vaccinated person # 60 is protected
+person # 61 is already diseased
+person # 48 is already diseased
+person # 25 is already diseased
+lucky person # 63 didn't get sick
+lucky person # 34 didn't get sick
+person # 37 is already diseased
+person # 70 is already diseased
+
+------ person # 77 ------
+person # 55 is already diseased
+person # 22 is already diseased
+person # 64 is already diseased
+lucky person # 34 didn't get sick
+person # 48 is already diseased
+lucky person # 78 didn't get sick
+person # 70 is already diseased
+lucky person # 39 didn't get sick
+person # 38 is already diseased
+person # 77 infected person # 51!
+lucky person # 67 didn't get sick
+person # 41 is already diseased
+
+------ person # 80 ------
+person # 61 is already diseased
+person # 80 infected person # 39!
+lucky person # 32 didn't get sick
+person # 55 is already diseased
+person # 75 is already diseased
+person # 42 is already diseased
+lucky person # 28 didn't get sick
+vaccinated person # 60 is protected
+person # 71 is already diseased
+person # 53 is already diseased
+person # 57 is already diseased
+person # 64 is already diseased
+
+=========================
+cycle # 3 has ended...
+cycle # 4 is starting!
+=========================
+
+
+------ person # 22 ------
+vaccinated person # 60 is protected
+person # 64 is already diseased
+person # 22 infected person # 52!
+person # 70 is already diseased
+vaccinated person # 58 is protected
+lucky person # 24 didn't get sick
+lucky person # 67 didn't get sick
+person # 55 is already diseased
+person # 51 is already diseased
+person # 39 is already diseased
+vaccinated person # 23 is protected
+vaccinated person # 56 is protected
+
+------ person # 25 ------
+lucky person # 24 didn't get sick
+person # 26 is already diseased
+lucky person # 78 didn't get sick
+person # 30 is already diseased
+vaccinated person # 60 is protected
+person # 54 is already diseased
+lucky person # 63 didn't get sick
+person # 25 infected person # 67!
+person # 71 is already diseased
+vaccinated person # 73 is protected
+person # 42 is already diseased
+person # 55 is already diseased
+
+------ person # 26 ------
+vaccinated person # 41 is protected
+vaccinated person # 60 is protected
+person # 22 is already diseased
+lucky person # 24 didn't get sick
+vaccinated person # 61 is protected
+person # 39 is already diseased
+person # 55 is already diseased
+vaccinated person # 73 is protected
+person # 42 is already diseased
+person # 67 is already diseased
+lucky person # 34 didn't get sick
+person # 26 infected person # 78!
+
+------ person # 30 ------
+person # 30 infected person # 63!
+person # 67 is already diseased
+lucky person # 33 didn't get sick
+vaccinated person # 56 is protected
+person # 39 is already diseased
+lucky person # 32 didn't get sick
+person # 54 is already diseased
+person # 26 is already diseased
+person # 70 is already diseased
+person # 51 is already diseased
+person # 75 is already diseased
+lucky person # 24 didn't get sick
+
+------ person # 39 ------
+vaccinated person # 23 is protected
+person # 64 is already diseased
+vaccinated person # 1 is protected
+person # 22 is already diseased
+person # 30 is already diseased
+person # 55 is already diseased
+person # 54 is already diseased
+lucky person # 24 didn't get sick
+lucky person # 33 didn't get sick
+person # 67 is already diseased
+person # 71 is already diseased
+person # 70 is already diseased
+
+------ person # 42 ------
+person # 67 is already diseased
+vaccinated person # 1 is protected
+person # 26 is already diseased
+vaccinated person # 23 is protected
+lucky person # 34 didn't get sick
+vaccinated person # 41 is protected
+person # 75 is already diseased
+person # 55 is already diseased
+vaccinated person # 61 is protected
+person # 78 is already diseased
+person # 22 is already diseased
+person # 39 is already diseased
+
+------ person # 51 ------
+vaccinated person # 73 is protected
+person # 26 is already diseased
+lucky person # 28 didn't get sick
+vaccinated person # 60 is protected
+person # 70 is already diseased
+vaccinated person # 61 is protected
+vaccinated person # 23 is protected
+person # 30 is already diseased
+person # 67 is already diseased
+person # 22 is already diseased
+vaccinated person # 56 is protected
+person # 63 is already diseased
+
+------ person # 54 ------
+lucky person # 33 didn't get sick
+person # 78 is already diseased
+person # 63 is already diseased
+lucky person # 34 didn't get sick
+person # 75 is already diseased
+person # 51 is already diseased
+lucky person # 28 didn't get sick
+person # 25 is already diseased
+person # 39 is already diseased
+vaccinated person # 61 is protected
+person # 22 is already diseased
+vaccinated person # 73 is protected
+
+------ person # 55 ------
+person # 25 is already diseased
+vaccinated person # 73 is protected
+person # 70 is already diseased
+vaccinated person # 60 is protected
+vaccinated person # 41 is protected
+person # 67 is already diseased
+lucky person # 33 didn't get sick
+lucky person # 28 didn't get sick
+vaccinated person # 61 is protected
+person # 71 is already diseased
+person # 22 is already diseased
+person # 75 is already diseased
+
+------ person # 64 ------
+vaccinated person # 61 is protected
+person # 25 is already diseased
+person # 71 is already diseased
+lucky person # 24 didn't get sick
+vaccinated person # 58 is protected
+lucky person # 34 didn't get sick
+vaccinated person # 73 is protected
+person # 54 is already diseased
+vaccinated person # 56 is protected
+person # 39 is already diseased
+lucky person # 32 didn't get sick
+person # 52 is already diseased
+
+------ person # 70 ------
+person # 70 infected person # 32!
+person # 78 is already diseased
+lucky person # 24 didn't get sick
+lucky person # 34 didn't get sick
+vaccinated person # 61 is protected
+person # 52 is already diseased
+vaccinated person # 1 is protected
+person # 42 is already diseased
+person # 75 is already diseased
+vaccinated person # 41 is protected
+person # 39 is already diseased
+person # 71 is already diseased
+
+------ person # 71 ------
+lucky person # 33 didn't get sick
+person # 26 is already diseased
+lucky person # 24 didn't get sick
+person # 32 is already diseased
+person # 54 is already diseased
+vaccinated person # 23 is protected
+person # 71 infected person # 34!
+vaccinated person # 56 is protected
+vaccinated person # 58 is protected
+person # 42 is already diseased
+vaccinated person # 73 is protected
+lucky person # 28 didn't get sick
+
+------ person # 75 ------
+person # 30 is already diseased
+person # 55 is already diseased
+person # 26 is already diseased
+person # 54 is already diseased
+person # 25 is already diseased
+vaccinated person # 1 is protected
+vaccinated person # 58 is protected
+person # 34 is already diseased
+vaccinated person # 23 is protected
+person # 78 is already diseased
+person # 67 is already diseased
+vaccinated person # 61 is protected
+
+=========================
+cycle # 4 has ended...
+cycle # 5 is starting!
+=========================
+
+
+------ person # 32 ------
+lucky person # 28 didn't get sick
+vaccinated person # 71 is protected
+vaccinated person # 30 is protected
+lucky person # 24 didn't get sick
+person # 34 is already diseased
+vaccinated person # 58 is protected
+person # 52 is already diseased
+person # 67 is already diseased
+person # 78 is already diseased
+vaccinated person # 60 is protected
+vaccinated person # 23 is protected
+vaccinated person # 26 is protected
+
+------ person # 34 ------
+vaccinated person # 41 is protected
+person # 78 is already diseased
+person # 52 is already diseased
+vaccinated person # 60 is protected
+lucky person # 24 didn't get sick
+vaccinated person # 1 is protected
+vaccinated person # 71 is protected
+person # 67 is already diseased
+person # 32 is already diseased
+person # 63 is already diseased
+vaccinated person # 61 is protected
+vaccinated person # 73 is protected
+
+------ person # 52 ------
+vaccinated person # 23 is protected
+vaccinated person # 30 is protected
+vaccinated person # 60 is protected
+vaccinated person # 61 is protected
+vaccinated person # 58 is protected
+person # 34 is already diseased
+vaccinated person # 56 is protected
+person # 67 is already diseased
+lucky person # 28 didn't get sick
+lucky person # 33 didn't get sick
+person # 63 is already diseased
+vaccinated person # 41 is protected
+
+------ person # 63 ------
+person # 34 is already diseased
+vaccinated person # 23 is protected
+vaccinated person # 30 is protected
+vaccinated person # 58 is protected
+vaccinated person # 1 is protected
+lucky person # 24 didn't get sick
+person # 52 is already diseased
+lucky person # 33 didn't get sick
+vaccinated person # 73 is protected
+vaccinated person # 71 is protected
+person # 67 is already diseased
+person # 32 is already diseased
+
+------ person # 67 ------
+vaccinated person # 23 is protected
+person # 63 is already diseased
+person # 78 is already diseased
+lucky person # 24 didn't get sick
+vaccinated person # 58 is protected
+vaccinated person # 41 is protected
+vaccinated person # 71 is protected
+person # 32 is already diseased
+vaccinated person # 1 is protected
+vaccinated person # 56 is protected
+lucky person # 33 didn't get sick
+vaccinated person # 73 is protected
+
+------ person # 78 ------
+vaccinated person # 58 is protected
+person # 34 is already diseased
+vaccinated person # 26 is protected
+vaccinated person # 23 is protected
+vaccinated person # 60 is protected
+person # 32 is already diseased
+person # 67 is already diseased
+vaccinated person # 61 is protected
+lucky person # 24 didn't get sick
+vaccinated person # 1 is protected
+vaccinated person # 56 is protected
+lucky person # 28 didn't get sick
+
+=========================
+cycle # 5 has ended...
+
+~~~~~~~~ RESULTS ~~~~~~~~
+ starting population: 80
+finishing population: 20
+  touched by disease: 57
+    number of deaths: 60
+=========================

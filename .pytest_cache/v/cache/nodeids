@@ -1,4 +1,7 @@
 [
+  "test_logger.py::test_logger_init",
   "test_person.py::test_person",
-  "test_person.py::test_infection"
+  "test_person.py::test_infection",
+  "test_simulation.py::test_setup",
+  "test_simulation.py::test_population"
 ]

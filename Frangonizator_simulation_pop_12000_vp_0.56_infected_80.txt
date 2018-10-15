@@ -1,0 +1,2769 @@
+12000	0.56	Frangonizator	0.31	0.12229
+
+=========================
+ population_size: 12000
+vaccination_rate: 0.56
+      virus_name: Frangonizator
+  mortality_rate: 0.31
+  infection_rate: 0.12229
+initial_infected: 80
+num_interactions: 12
+
+cycle # 1 is starting!
+=========================
+
+
+------ person # 1 ------
+vaccinated person # 6578 is protected
+person # 1 infected person # 2023!
+vaccinated person # 11897 is protected
+vaccinated person # 9602 is protected
+person # 1 infected person # 11019!
+vaccinated person # 2489 is protected
+vaccinated person # 3375 is protected
+vaccinated person # 7269 is protected
+vaccinated person # 2335 is protected
+lucky person # 11022 didn't get sick
+vaccinated person # 4518 is protected
+vaccinated person # 5371 is protected
+
+------ person # 2 ------
+vaccinated person # 1682 is protected
+vaccinated person # 10300 is protected
+vaccinated person # 9806 is protected
+vaccinated person # 7720 is protected
+vaccinated person # 3806 is protected
+lucky person # 10826 didn't get sick
+lucky person # 7183 didn't get sick
+vaccinated person # 4898 is protected
+vaccinated person # 2047 is protected
+vaccinated person # 8874 is protected
+vaccinated person # 10003 is protected
+lucky person # 7450 didn't get sick
+
+------ person # 3 ------
+lucky person # 11797 didn't get sick
+lucky person # 5594 didn't get sick
+lucky person # 4459 didn't get sick
+vaccinated person # 672 is protected
+vaccinated person # 6254 is protected
+vaccinated person # 4187 is protected
+vaccinated person # 1850 is protected
+lucky person # 10278 didn't get sick
+vaccinated person # 7650 is protected
+vaccinated person # 6985 is protected
+vaccinated person # 9593 is protected
+vaccinated person # 2762 is protected
+
+------ person # 4 ------
+lucky person # 3681 didn't get sick
+vaccinated person # 8568 is protected
+vaccinated person # 1689 is protected
+vaccinated person # 1452 is protected
+lucky person # 11994 didn't get sick
+vaccinated person # 9889 is protected
+vaccinated person # 9819 is protected
+vaccinated person # 5944 is protected
+lucky person # 3957 didn't get sick
+lucky person # 10902 didn't get sick
+vaccinated person # 8108 is protected
+lucky person # 11505 didn't get sick
+
+------ person # 5 ------
+vaccinated person # 11863 is protected
+person # 5 infected person # 4520!
+vaccinated person # 4124 is protected
+lucky person # 10493 didn't get sick
+lucky person # 8323 didn't get sick
+lucky person # 5390 didn't get sick
+vaccinated person # 6879 is protected
+vaccinated person # 10934 is protected
+vaccinated person # 4117 is protected
+vaccinated person # 5848 is protected
+vaccinated person # 1362 is protected
+vaccinated person # 212 is protected
+
+------ person # 6 ------
+lucky person # 9685 didn't get sick
+vaccinated person # 7107 is protected
+vaccinated person # 10908 is protected
+vaccinated person # 4355 is protected
+vaccinated person # 1704 is protected
+vaccinated person # 11614 is protected
+vaccinated person # 7997 is protected
+vaccinated person # 9191 is protected
+vaccinated person # 9946 is protected
+vaccinated person # 9273 is protected
+lucky person # 6160 didn't get sick
+vaccinated person # 9948 is protected
+
+------ person # 7 ------
+lucky person # 6269 didn't get sick
+vaccinated person # 690 is protected
+lucky person # 9860 didn't get sick
+vaccinated person # 1768 is protected
+vaccinated person # 9676 is protected
+lucky person # 10535 didn't get sick
+lucky person # 1617 didn't get sick
+vaccinated person # 9436 is protected
+lucky person # 1557 didn't get sick
+vaccinated person # 1929 is protected
+person # 7 infected person # 3915!
+lucky person # 5916 didn't get sick
+
+------ person # 8 ------
+vaccinated person # 7213 is protected
+vaccinated person # 7550 is protected
+vaccinated person # 9396 is protected
+lucky person # 8567 didn't get sick
+vaccinated person # 611 is protected
+vaccinated person # 6534 is protected
+lucky person # 10298 didn't get sick
+lucky person # 7077 didn't get sick
+lucky person # 10971 didn't get sick
+lucky person # 421 didn't get sick
+vaccinated person # 3542 is protected
+vaccinated person # 9297 is protected
+
+------ person # 9 ------
+vaccinated person # 465 is protected
+lucky person # 11946 didn't get sick
+lucky person # 7483 didn't get sick
+lucky person # 4155 didn't get sick
+vaccinated person # 5878 is protected
+lucky person # 11195 didn't get sick
+lucky person # 5639 didn't get sick
+vaccinated person # 5777 is protected
+vaccinated person # 4076 is protected
+lucky person # 4536 didn't get sick
+vaccinated person # 7315 is protected
+vaccinated person # 785 is protected
+
+------ person # 10 ------
+lucky person # 8967 didn't get sick
+vaccinated person # 10623 is protected
+lucky person # 5274 didn't get sick
+vaccinated person # 6577 is protected
+vaccinated person # 5712 is protected
+vaccinated person # 2819 is protected
+vaccinated person # 8194 is protected
+vaccinated person # 1457 is protected
+lucky person # 5472 didn't get sick
+vaccinated person # 5769 is protected
+lucky person # 10109 didn't get sick
+person # 10 infected person # 8827!
+
+------ person # 11 ------
+vaccinated person # 11829 is protected
+vaccinated person # 1482 is protected
+lucky person # 10478 didn't get sick
+lucky person # 6654 didn't get sick
+lucky person # 5128 didn't get sick
+lucky person # 10191 didn't get sick
+vaccinated person # 8150 is protected
+vaccinated person # 10484 is protected
+vaccinated person # 3052 is protected
+vaccinated person # 6274 is protected
+vaccinated person # 3315 is protected
+vaccinated person # 4340 is protected
+
+------ person # 12 ------
+vaccinated person # 5923 is protected
+vaccinated person # 2609 is protected
+vaccinated person # 2763 is protected
+lucky person # 5291 didn't get sick
+lucky person # 261 didn't get sick
+vaccinated person # 1828 is protected
+vaccinated person # 3114 is protected
+vaccinated person # 9540 is protected
+vaccinated person # 5093 is protected
+lucky person # 8301 didn't get sick
+vaccinated person # 11483 is protected
+vaccinated person # 10534 is protected
+
+------ person # 13 ------
+vaccinated person # 6521 is protected
+vaccinated person # 10135 is protected
+lucky person # 11400 didn't get sick
+lucky person # 1245 didn't get sick
+vaccinated person # 3256 is protected
+vaccinated person # 1531 is protected
+vaccinated person # 1485 is protected
+vaccinated person # 11667 is protected
+vaccinated person # 9803 is protected
+lucky person # 10873 didn't get sick
+lucky person # 6635 didn't get sick
+vaccinated person # 4320 is protected
+
+------ person # 14 ------
+vaccinated person # 6312 is protected
+lucky person # 1698 didn't get sick
+vaccinated person # 4817 is protected
+lucky person # 10054 didn't get sick
+person # 14 infected person # 9344!
+vaccinated person # 1347 is protected
+vaccinated person # 5309 is protected
+lucky person # 3686 didn't get sick
+lucky person # 7257 didn't get sick
+vaccinated person # 669 is protected
+lucky person # 4033 didn't get sick
+lucky person # 8988 didn't get sick
+
+------ person # 15 ------
+vaccinated person # 7215 is protected
+vaccinated person # 10617 is protected
+vaccinated person # 3539 is protected
+vaccinated person # 2382 is protected
+vaccinated person # 204 is protected
+vaccinated person # 4866 is protected
+lucky person # 3996 didn't get sick
+lucky person # 342 didn't get sick
+vaccinated person # 10038 is protected
+lucky person # 7925 didn't get sick
+vaccinated person # 7198 is protected
+vaccinated person # 6798 is protected
+
+------ person # 16 ------
+lucky person # 3049 didn't get sick
+lucky person # 8498 didn't get sick
+vaccinated person # 9520 is protected
+lucky person # 6549 didn't get sick
+vaccinated person # 10281 is protected
+lucky person # 9432 didn't get sick
+lucky person # 6344 didn't get sick
+lucky person # 4286 didn't get sick
+vaccinated person # 11588 is protected
+vaccinated person # 5966 is protected
+lucky person # 4321 didn't get sick
+vaccinated person # 7073 is protected
+
+------ person # 17 ------
+vaccinated person # 11509 is protected
+lucky person # 4046 didn't get sick
+lucky person # 8821 didn't get sick
+vaccinated person # 9488 is protected
+vaccinated person # 2110 is protected
+lucky person # 1584 didn't get sick
+lucky person # 8318 didn't get sick
+vaccinated person # 11613 is protected
+vaccinated person # 7798 is protected
+lucky person # 8777 didn't get sick
+vaccinated person # 5140 is protected
+vaccinated person # 1719 is protected
+
+------ person # 18 ------
+vaccinated person # 9078 is protected
+person # 18 infected person # 3670!
+vaccinated person # 7625 is protected
+vaccinated person # 4411 is protected
+vaccinated person # 9413 is protected
+vaccinated person # 872 is protected
+lucky person # 7544 didn't get sick
+vaccinated person # 10146 is protected
+person # 18 infected person # 7178!
+lucky person # 8152 didn't get sick
+lucky person # 9693 didn't get sick
+vaccinated person # 7150 is protected
+
+------ person # 19 ------
+lucky person # 5696 didn't get sick
+vaccinated person # 7811 is protected
+lucky person # 11575 didn't get sick
+vaccinated person # 2423 is protected
+vaccinated person # 1045 is protected
+vaccinated person # 11179 is protected
+lucky person # 5810 didn't get sick
+vaccinated person # 1073 is protected
+lucky person # 11786 didn't get sick
+vaccinated person # 4527 is protected
+lucky person # 9342 didn't get sick
+vaccinated person # 4132 is protected
+
+------ person # 20 ------
+lucky person # 2185 didn't get sick
+vaccinated person # 6494 is protected
+lucky person # 3527 didn't get sick
+vaccinated person # 10846 is protected
+lucky person # 7411 didn't get sick
+lucky person # 5079 didn't get sick
+person # 8827 is already diseased
+vaccinated person # 11431 is protected
+lucky person # 11061 didn't get sick
+lucky person # 4994 didn't get sick
+lucky person # 5420 didn't get sick
+person # 20 infected person # 3813!
+
+------ person # 21 ------
+vaccinated person # 9988 is protected
+vaccinated person # 868 is protected
+vaccinated person # 11670 is protected
+vaccinated person # 5873 is protected
+vaccinated person # 9627 is protected
+vaccinated person # 1962 is protected
+vaccinated person # 1165 is protected
+vaccinated person # 10064 is protected
+lucky person # 1044 didn't get sick
+vaccinated person # 8685 is protected
+vaccinated person # 6784 is protected
+vaccinated person # 11978 is protected
+
+------ person # 22 ------
+vaccinated person # 3189 is protected
+vaccinated person # 4078 is protected
+vaccinated person # 9858 is protected
+person # 22 infected person # 2939!
+lucky person # 2971 didn't get sick
+lucky person # 484 didn't get sick
+lucky person # 10646 didn't get sick
+lucky person # 8115 didn't get sick
+vaccinated person # 11947 is protected
+vaccinated person # 1959 is protected
+vaccinated person # 5443 is protected
+lucky person # 1461 didn't get sick
+
+------ person # 23 ------
+vaccinated person # 7773 is protected
+person # 23 infected person # 2270!
+vaccinated person # 5626 is protected
+vaccinated person # 3000 is protected
+lucky person # 1571 didn't get sick
+vaccinated person # 5102 is protected
+lucky person # 5824 didn't get sick
+vaccinated person # 2909 is protected
+lucky person # 11596 didn't get sick
+vaccinated person # 7059 is protected
+vaccinated person # 4133 is protected
+lucky person # 8197 didn't get sick
+
+------ person # 24 ------
+lucky person # 1337 didn't get sick
+lucky person # 5567 didn't get sick
+vaccinated person # 7404 is protected
+lucky person # 1542 didn't get sick
+lucky person # 8588 didn't get sick
+person # 24 infected person # 4226!
+lucky person # 335 didn't get sick
+vaccinated person # 9939 is protected
+person # 24 infected person # 999!
+vaccinated person # 9136 is protected
+lucky person # 971 didn't get sick
+lucky person # 11197 didn't get sick
+
+------ person # 25 ------
+vaccinated person # 1137 is protected
+lucky person # 2826 didn't get sick
+vaccinated person # 3091 is protected
+vaccinated person # 10432 is protected
+vaccinated person # 10176 is protected
+lucky person # 8166 didn't get sick
+lucky person # 2981 didn't get sick
+vaccinated person # 8774 is protected
+vaccinated person # 3582 is protected
+lucky person # 5662 didn't get sick
+vaccinated person # 1590 is protected
+vaccinated person # 11205 is protected
+
+------ person # 26 ------
+person # 26 infected person # 11574!
+vaccinated person # 2909 is protected
+lucky person # 8314 didn't get sick
+lucky person # 2439 didn't get sick
+lucky person # 7295 didn't get sick
+vaccinated person # 498 is protected
+vaccinated person # 10198 is protected
+vaccinated person # 637 is protected
+vaccinated person # 8814 is protected
+person # 26 infected person # 1973!
+lucky person # 5112 didn't get sick
+lucky person # 4780 didn't get sick
+
+------ person # 27 ------
+vaccinated person # 10047 is protected
+lucky person # 5528 didn't get sick
+vaccinated person # 7451 is protected
+lucky person # 10792 didn't get sick
+vaccinated person # 8981 is protected
+vaccinated person # 6372 is protected
+vaccinated person # 7341 is protected
+lucky person # 1907 didn't get sick
+lucky person # 10965 didn't get sick
+lucky person # 9091 didn't get sick
+vaccinated person # 1073 is protected
+vaccinated person # 5547 is protected
+
+------ person # 28 ------
+lucky person # 682 didn't get sick
+vaccinated person # 5872 is protected
+vaccinated person # 962 is protected
+lucky person # 7875 didn't get sick
+vaccinated person # 10812 is protected
+vaccinated person # 11599 is protected
+vaccinated person # 9690 is protected
+lucky person # 1621 didn't get sick
+lucky person # 8523 didn't get sick
+vaccinated person # 1493 is protected
+lucky person # 10880 didn't get sick
+lucky person # 10737 didn't get sick
+
+------ person # 29 ------
+vaccinated person # 3293 is protected
+person # 29 infected person # 4631!
+vaccinated person # 5251 is protected
+vaccinated person # 2220 is protected
+person # 29 infected person # 7343!
+vaccinated person # 3246 is protected
+vaccinated person # 4804 is protected
+vaccinated person # 10269 is protected
+person # 29 infected person # 6991!
+vaccinated person # 6630 is protected
+vaccinated person # 7138 is protected
+vaccinated person # 6184 is protected
+
+------ person # 30 ------
+vaccinated person # 9196 is protected
+lucky person # 7932 didn't get sick
+vaccinated person # 9991 is protected
+vaccinated person # 6371 is protected
+vaccinated person # 5012 is protected
+person # 30 infected person # 8156!
+lucky person # 4706 didn't get sick
+lucky person # 11215 didn't get sick
+lucky person # 11459 didn't get sick
+lucky person # 904 didn't get sick
+lucky person # 8650 didn't get sick
+vaccinated person # 683 is protected
+
+------ person # 31 ------
+vaccinated person # 786 is protected
+lucky person # 8755 didn't get sick
+vaccinated person # 459 is protected
+lucky person # 775 didn't get sick
+vaccinated person # 4967 is protected
+vaccinated person # 6311 is protected
+vaccinated person # 3088 is protected
+vaccinated person # 5769 is protected
+vaccinated person # 8819 is protected
+lucky person # 863 didn't get sick
+vaccinated person # 11220 is protected
+lucky person # 7116 didn't get sick
+
+------ person # 32 ------
+vaccinated person # 11456 is protected
+lucky person # 733 didn't get sick
+vaccinated person # 3516 is protected
+vaccinated person # 1618 is protected
+vaccinated person # 7495 is protected
+vaccinated person # 3045 is protected
+vaccinated person # 3635 is protected
+lucky person # 11680 didn't get sick
+lucky person # 5253 didn't get sick
+vaccinated person # 1197 is protected
+vaccinated person # 11709 is protected
+vaccinated person # 3340 is protected
+
+------ person # 33 ------
+vaccinated person # 742 is protected
+lucky person # 6252 didn't get sick
+vaccinated person # 3377 is protected
+lucky person # 11298 didn't get sick
+lucky person # 1907 didn't get sick
+vaccinated person # 4762 is protected
+person # 78 is already diseased
+vaccinated person # 3943 is protected
+vaccinated person # 10814 is protected
+person # 33 infected person # 5426!
+lucky person # 2904 didn't get sick
+lucky person # 6398 didn't get sick
+
+------ person # 34 ------
+vaccinated person # 10954 is protected
+lucky person # 4231 didn't get sick
+vaccinated person # 6929 is protected
+vaccinated person # 11151 is protected
+lucky person # 9350 didn't get sick
+vaccinated person # 11641 is protected
+vaccinated person # 10263 is protected
+lucky person # 5076 didn't get sick
+vaccinated person # 3357 is protected
+vaccinated person # 10711 is protected
+vaccinated person # 4469 is protected
+vaccinated person # 6709 is protected
+
+------ person # 35 ------
+lucky person # 4557 didn't get sick
+vaccinated person # 3105 is protected
+vaccinated person # 8001 is protected
+vaccinated person # 4154 is protected
+lucky person # 9837 didn't get sick
+vaccinated person # 171 is protected
+vaccinated person # 10272 is protected
+vaccinated person # 11354 is protected
+vaccinated person # 6484 is protected
+person # 35 infected person # 686!
+vaccinated person # 11414 is protected
+vaccinated person # 7365 is protected
+
+------ person # 36 ------
+lucky person # 1875 didn't get sick
+lucky person # 1890 didn't get sick
+vaccinated person # 2606 is protected
+vaccinated person # 8008 is protected
+vaccinated person # 1090 is protected
+lucky person # 3009 didn't get sick
+lucky person # 8804 didn't get sick
+vaccinated person # 5369 is protected
+vaccinated person # 2747 is protected
+lucky person # 4209 didn't get sick
+vaccinated person # 11166 is protected
+person # 36 infected person # 11726!
+
+------ person # 37 ------
+person # 37 infected person # 1957!
+vaccinated person # 6472 is protected
+vaccinated person # 3313 is protected
+vaccinated person # 1418 is protected
+lucky person # 9094 didn't get sick
+lucky person # 8163 didn't get sick
+vaccinated person # 3292 is protected
+vaccinated person # 2085 is protected
+lucky person # 8498 didn't get sick
+vaccinated person # 585 is protected
+lucky person # 7691 didn't get sick
+vaccinated person # 7853 is protected
+
+------ person # 38 ------
+vaccinated person # 1105 is protected
+lucky person # 3962 didn't get sick
+lucky person # 7145 didn't get sick
+vaccinated person # 10085 is protected
+vaccinated person # 6079 is protected
+vaccinated person # 7182 is protected
+vaccinated person # 2340 is protected
+lucky person # 7249 didn't get sick
+vaccinated person # 9789 is protected
+vaccinated person # 673 is protected
+vaccinated person # 10871 is protected
+vaccinated person # 8260 is protected
+
+------ person # 39 ------
+vaccinated person # 5209 is protected
+vaccinated person # 717 is protected
+person # 39 infected person # 9322!
+vaccinated person # 233 is protected
+vaccinated person # 2505 is protected
+lucky person # 5597 didn't get sick
+vaccinated person # 4113 is protected
+lucky person # 2879 didn't get sick
+vaccinated person # 5744 is protected
+vaccinated person # 7578 is protected
+vaccinated person # 3292 is protected
+vaccinated person # 10565 is protected
+
+------ person # 40 ------
+vaccinated person # 8284 is protected
+person # 40 infected person # 1043!
+vaccinated person # 3692 is protected
+lucky person # 3016 didn't get sick
+vaccinated person # 10281 is protected
+vaccinated person # 3187 is protected
+vaccinated person # 5508 is protected
+lucky person # 10788 didn't get sick
+lucky person # 11824 didn't get sick
+vaccinated person # 7196 is protected
+lucky person # 415 didn't get sick
+vaccinated person # 7225 is protected
+
+------ person # 41 ------
+vaccinated person # 5203 is protected
+lucky person # 930 didn't get sick
+lucky person # 1826 didn't get sick
+vaccinated person # 11223 is protected
+person # 41 infected person # 1069!
+lucky person # 6721 didn't get sick
+lucky person # 8493 didn't get sick
+vaccinated person # 8760 is protected
+vaccinated person # 287 is protected
+person # 41 infected person # 10143!
+person # 41 infected person # 11815!
+vaccinated person # 2788 is protected
+
+------ person # 42 ------
+lucky person # 958 didn't get sick
+lucky person # 6351 didn't get sick
+lucky person # 9291 didn't get sick
+vaccinated person # 1962 is protected
+lucky person # 3681 didn't get sick
+vaccinated person # 10299 is protected
+vaccinated person # 577 is protected
+vaccinated person # 9240 is protected
+vaccinated person # 8944 is protected
+vaccinated person # 1214 is protected
+vaccinated person # 325 is protected
+vaccinated person # 10642 is protected
+
+------ person # 43 ------
+lucky person # 11234 didn't get sick
+vaccinated person # 10094 is protected
+vaccinated person # 6337 is protected
+vaccinated person # 7369 is protected
+vaccinated person # 3894 is protected
+lucky person # 11193 didn't get sick
+vaccinated person # 8041 is protected
+vaccinated person # 10041 is protected
+lucky person # 4098 didn't get sick
+lucky person # 5657 didn't get sick
+vaccinated person # 10440 is protected
+vaccinated person # 7460 is protected
+
+------ person # 44 ------
+vaccinated person # 3668 is protected
+lucky person # 2366 didn't get sick
+lucky person # 4702 didn't get sick
+lucky person # 10442 didn't get sick
+vaccinated person # 11981 is protected
+vaccinated person # 2858 is protected
+vaccinated person # 6369 is protected
+lucky person # 4218 didn't get sick
+vaccinated person # 2628 is protected
+vaccinated person # 6037 is protected
+vaccinated person # 344 is protected
+lucky person # 7083 didn't get sick
+
+------ person # 45 ------
+vaccinated person # 3719 is protected
+vaccinated person # 6592 is protected
+vaccinated person # 2049 is protected
+lucky person # 10268 didn't get sick
+lucky person # 5785 didn't get sick
+vaccinated person # 3411 is protected
+lucky person # 6654 didn't get sick
+lucky person # 6906 didn't get sick
+lucky person # 6851 didn't get sick
+vaccinated person # 7555 is protected
+lucky person # 7419 didn't get sick
+lucky person # 7281 didn't get sick
+
+------ person # 46 ------
+vaccinated person # 11676 is protected
+vaccinated person # 3129 is protected
+vaccinated person # 9314 is protected
+lucky person # 3190 didn't get sick
+vaccinated person # 11953 is protected
+vaccinated person # 10806 is protected
+person # 10143 is already diseased
+vaccinated person # 5957 is protected
+lucky person # 7595 didn't get sick
+vaccinated person # 8986 is protected
+lucky person # 6692 didn't get sick
+vaccinated person # 6144 is protected
+
+------ person # 47 ------
+lucky person # 1781 didn't get sick
+lucky person # 8895 didn't get sick
+lucky person # 10689 didn't get sick
+lucky person # 7412 didn't get sick
+lucky person # 4922 didn't get sick
+person # 47 infected person # 10221!
+vaccinated person # 6755 is protected
+vaccinated person # 834 is protected
+vaccinated person # 3270 is protected
+lucky person # 3562 didn't get sick
+vaccinated person # 5538 is protected
+vaccinated person # 9048 is protected
+
+------ person # 48 ------
+vaccinated person # 9297 is protected
+lucky person # 10930 didn't get sick
+lucky person # 2824 didn't get sick
+vaccinated person # 4480 is protected
+vaccinated person # 11156 is protected
+lucky person # 9233 didn't get sick
+lucky person # 2554 didn't get sick
+vaccinated person # 10512 is protected
+lucky person # 6588 didn't get sick
+vaccinated person # 9428 is protected
+lucky person # 3243 didn't get sick
+vaccinated person # 2469 is protected
+
+------ person # 49 ------
+vaccinated person # 10033 is protected
+vaccinated person # 8694 is protected
+vaccinated person # 10293 is protected
+vaccinated person # 579 is protected
+vaccinated person # 11083 is protected
+lucky person # 1592 didn't get sick
+vaccinated person # 1072 is protected
+vaccinated person # 1407 is protected
+vaccinated person # 352 is protected
+vaccinated person # 143 is protected
+vaccinated person # 868 is protected
+lucky person # 5439 didn't get sick
+
+------ person # 50 ------
+lucky person # 5845 didn't get sick
+lucky person # 3327 didn't get sick
+vaccinated person # 2468 is protected
+vaccinated person # 3492 is protected
+lucky person # 5043 didn't get sick
+lucky person # 1082 didn't get sick
+vaccinated person # 5953 is protected
+lucky person # 10219 didn't get sick
+lucky person # 5175 didn't get sick
+lucky person # 9568 didn't get sick
+person # 50 infected person # 7326!
+vaccinated person # 7793 is protected
+
+------ person # 51 ------
+lucky person # 10131 didn't get sick
+lucky person # 6713 didn't get sick
+vaccinated person # 2594 is protected
+vaccinated person # 9205 is protected
+vaccinated person # 9052 is protected
+lucky person # 10306 didn't get sick
+vaccinated person # 7696 is protected
+vaccinated person # 11474 is protected
+lucky person # 4609 didn't get sick
+lucky person # 11313 didn't get sick
+lucky person # 4088 didn't get sick
+vaccinated person # 1858 is protected
+
+------ person # 52 ------
+lucky person # 6216 didn't get sick
+vaccinated person # 7815 is protected
+lucky person # 2793 didn't get sick
+vaccinated person # 327 is protected
+vaccinated person # 9608 is protected
+vaccinated person # 11280 is protected
+vaccinated person # 5940 is protected
+vaccinated person # 7229 is protected
+lucky person # 9589 didn't get sick
+vaccinated person # 9377 is protected
+vaccinated person # 2982 is protected
+lucky person # 7336 didn't get sick
+
+------ person # 53 ------
+lucky person # 5567 didn't get sick
+lucky person # 1393 didn't get sick
+lucky person # 6064 didn't get sick
+lucky person # 1129 didn't get sick
+vaccinated person # 2906 is protected
+vaccinated person # 2213 is protected
+vaccinated person # 10231 is protected
+vaccinated person # 4921 is protected
+lucky person # 11107 didn't get sick
+vaccinated person # 6457 is protected
+vaccinated person # 2453 is protected
+vaccinated person # 1821 is protected
+
+------ person # 54 ------
+vaccinated person # 11656 is protected
+vaccinated person # 1362 is protected
+vaccinated person # 5813 is protected
+vaccinated person # 9879 is protected
+vaccinated person # 8108 is protected
+lucky person # 262 didn't get sick
+vaccinated person # 10194 is protected
+vaccinated person # 9676 is protected
+vaccinated person # 6848 is protected
+lucky person # 2772 didn't get sick
+lucky person # 5988 didn't get sick
+vaccinated person # 4144 is protected
+
+------ person # 55 ------
+vaccinated person # 385 is protected
+lucky person # 8023 didn't get sick
+vaccinated person # 5221 is protected
+lucky person # 2736 didn't get sick
+vaccinated person # 854 is protected
+vaccinated person # 10645 is protected
+vaccinated person # 3916 is protected
+lucky person # 11485 didn't get sick
+lucky person # 5028 didn't get sick
+vaccinated person # 4315 is protected
+vaccinated person # 7363 is protected
+vaccinated person # 7101 is protected
+
+------ person # 56 ------
+vaccinated person # 10804 is protected
+lucky person # 1315 didn't get sick
+vaccinated person # 5456 is protected
+vaccinated person # 9035 is protected
+vaccinated person # 515 is protected
+vaccinated person # 2143 is protected
+lucky person # 10232 didn't get sick
+vaccinated person # 175 is protected
+vaccinated person # 9405 is protected
+vaccinated person # 316 is protected
+vaccinated person # 4965 is protected
+lucky person # 6244 didn't get sick
+
+------ person # 57 ------
+vaccinated person # 11392 is protected
+vaccinated person # 11009 is protected
+vaccinated person # 4429 is protected
+vaccinated person # 11421 is protected
+vaccinated person # 6148 is protected
+vaccinated person # 5501 is protected
+vaccinated person # 6012 is protected
+vaccinated person # 8403 is protected
+vaccinated person # 6960 is protected
+vaccinated person # 6676 is protected
+vaccinated person # 11599 is protected
+lucky person # 5608 didn't get sick
+
+------ person # 58 ------
+vaccinated person # 5673 is protected
+vaccinated person # 11784 is protected
+lucky person # 4286 didn't get sick
+vaccinated person # 9053 is protected
+lucky person # 3161 didn't get sick
+vaccinated person # 8012 is protected
+lucky person # 4617 didn't get sick
+vaccinated person # 4372 is protected
+lucky person # 1365 didn't get sick
+person # 58 infected person # 7377!
+lucky person # 11016 didn't get sick
+vaccinated person # 1391 is protected
+
+------ person # 59 ------
+lucky person # 1754 didn't get sick
+vaccinated person # 3982 is protected
+vaccinated person # 1220 is protected
+lucky person # 2904 didn't get sick
+lucky person # 6122 didn't get sick
+lucky person # 1065 didn't get sick
+vaccinated person # 2527 is protected
+vaccinated person # 9378 is protected
+person # 59 infected person # 3888!
+lucky person # 1434 didn't get sick
+vaccinated person # 1238 is protected
+vaccinated person # 159 is protected
+
+------ person # 60 ------
+vaccinated person # 7550 is protected
+vaccinated person # 10340 is protected
+vaccinated person # 5422 is protected
+lucky person # 10898 didn't get sick
+vaccinated person # 1734 is protected
+vaccinated person # 10040 is protected
+vaccinated person # 2000 is protected
+vaccinated person # 921 is protected
+vaccinated person # 11545 is protected
+lucky person # 2276 didn't get sick
+person # 60 infected person # 3273!
+vaccinated person # 1331 is protected
+
+------ person # 61 ------
+vaccinated person # 7094 is protected
+lucky person # 11234 didn't get sick
+vaccinated person # 3819 is protected
+lucky person # 3445 didn't get sick
+vaccinated person # 820 is protected
+vaccinated person # 11752 is protected
+lucky person # 1303 didn't get sick
+lucky person # 6343 didn't get sick
+lucky person # 5254 didn't get sick
+lucky person # 10255 didn't get sick
+vaccinated person # 8680 is protected
+vaccinated person # 3159 is protected
+
+------ person # 62 ------
+vaccinated person # 11079 is protected
+vaccinated person # 9697 is protected
+lucky person # 1004 didn't get sick
+vaccinated person # 7252 is protected
+vaccinated person # 3031 is protected
+vaccinated person # 8320 is protected
+vaccinated person # 104 is protected
+vaccinated person # 1306 is protected
+lucky person # 2885 didn't get sick
+vaccinated person # 3245 is protected
+vaccinated person # 4320 is protected
+vaccinated person # 2361 is protected
+
+------ person # 63 ------
+lucky person # 3103 didn't get sick
+lucky person # 11470 didn't get sick
+lucky person # 2032 didn't get sick
+lucky person # 11519 didn't get sick
+vaccinated person # 1242 is protected
+lucky person # 3086 didn't get sick
+vaccinated person # 3067 is protected
+vaccinated person # 5271 is protected
+vaccinated person # 3736 is protected
+vaccinated person # 2664 is protected
+vaccinated person # 6475 is protected
+lucky person # 10418 didn't get sick
+
+------ person # 64 ------
+lucky person # 5649 didn't get sick
+lucky person # 3945 didn't get sick
+vaccinated person # 8695 is protected
+vaccinated person # 115 is protected
+person # 64 infected person # 10733!
+lucky person # 11204 didn't get sick
+lucky person # 4126 didn't get sick
+vaccinated person # 4615 is protected
+vaccinated person # 2644 is protected
+vaccinated person # 1061 is protected
+vaccinated person # 1011 is protected
+lucky person # 1031 didn't get sick
+
+------ person # 65 ------
+lucky person # 11733 didn't get sick
+vaccinated person # 7307 is protected
+vaccinated person # 197 is protected
+vaccinated person # 11054 is protected
+lucky person # 1447 didn't get sick
+vaccinated person # 5219 is protected
+vaccinated person # 9641 is protected
+lucky person # 5926 didn't get sick
+lucky person # 11445 didn't get sick
+vaccinated person # 11166 is protected
+vaccinated person # 9927 is protected
+vaccinated person # 11120 is protected
+
+------ person # 66 ------
+vaccinated person # 5868 is protected
+vaccinated person # 7873 is protected
+vaccinated person # 6071 is protected
+vaccinated person # 8191 is protected
+vaccinated person # 4920 is protected
+vaccinated person # 8018 is protected
+person # 66 infected person # 5137!
+vaccinated person # 8952 is protected
+vaccinated person # 3118 is protected
+lucky person # 3739 didn't get sick
+vaccinated person # 9632 is protected
+lucky person # 2795 didn't get sick
+
+------ person # 67 ------
+lucky person # 7564 didn't get sick
+vaccinated person # 5315 is protected
+lucky person # 6608 didn't get sick
+vaccinated person # 7600 is protected
+vaccinated person # 7613 is protected
+lucky person # 7411 didn't get sick
+vaccinated person # 2502 is protected
+vaccinated person # 2328 is protected
+vaccinated person # 6321 is protected
+vaccinated person # 6880 is protected
+lucky person # 402 didn't get sick
+vaccinated person # 2286 is protected
+
+------ person # 68 ------
+vaccinated person # 5992 is protected
+vaccinated person # 229 is protected
+lucky person # 7119 didn't get sick
+vaccinated person # 10846 is protected
+vaccinated person # 2832 is protected
+lucky person # 2476 didn't get sick
+lucky person # 9720 didn't get sick
+lucky person # 3017 didn't get sick
+vaccinated person # 3560 is protected
+vaccinated person # 1555 is protected
+vaccinated person # 270 is protected
+vaccinated person # 6419 is protected
+
+------ person # 69 ------
+vaccinated person # 2594 is protected
+vaccinated person # 4974 is protected
+lucky person # 9003 didn't get sick
+lucky person # 4551 didn't get sick
+lucky person # 3733 didn't get sick
+vaccinated person # 3114 is protected
+person # 69 infected person # 7977!
+lucky person # 9950 didn't get sick
+vaccinated person # 11866 is protected
+person # 69 infected person # 8184!
+vaccinated person # 7097 is protected
+vaccinated person # 7135 is protected
+
+------ person # 70 ------
+vaccinated person # 5297 is protected
+person # 70 infected person # 11569!
+vaccinated person # 7812 is protected
+lucky person # 9961 didn't get sick
+vaccinated person # 4741 is protected
+vaccinated person # 2318 is protected
+lucky person # 3854 didn't get sick
+vaccinated person # 8505 is protected
+vaccinated person # 8103 is protected
+lucky person # 3547 didn't get sick
+vaccinated person # 6827 is protected
+vaccinated person # 8044 is protected
+
+------ person # 71 ------
+vaccinated person # 11208 is protected
+lucky person # 10134 didn't get sick
+lucky person # 7029 didn't get sick
+vaccinated person # 10022 is protected
+vaccinated person # 1997 is protected
+lucky person # 9818 didn't get sick
+lucky person # 2122 didn't get sick
+vaccinated person # 8681 is protected
+vaccinated person # 4621 is protected
+vaccinated person # 5592 is protected
+person # 71 infected person # 11885!
+lucky person # 6122 didn't get sick
+
+------ person # 72 ------
+vaccinated person # 6833 is protected
+lucky person # 4033 didn't get sick
+lucky person # 3432 didn't get sick
+vaccinated person # 5347 is protected
+vaccinated person # 11281 is protected
+vaccinated person # 3826 is protected
+vaccinated person # 5124 is protected
+vaccinated person # 10392 is protected
+vaccinated person # 7808 is protected
+vaccinated person # 4600 is protected
+vaccinated person # 9102 is protected
+vaccinated person # 5589 is protected
+
+------ person # 73 ------
+vaccinated person # 3185 is protected
+vaccinated person # 2083 is protected
+vaccinated person # 5275 is protected
+vaccinated person # 10369 is protected
+vaccinated person # 9380 is protected
+vaccinated person # 3753 is protected
+vaccinated person # 11608 is protected
+vaccinated person # 9719 is protected
+vaccinated person # 9991 is protected
+lucky person # 3887 didn't get sick
+lucky person # 4086 didn't get sick
+vaccinated person # 8012 is protected
+
+------ person # 74 ------
+lucky person # 5136 didn't get sick
+vaccinated person # 8373 is protected
+vaccinated person # 1567 is protected
+vaccinated person # 6296 is protected
+vaccinated person # 2432 is protected
+lucky person # 10223 didn't get sick
+vaccinated person # 5273 is protected
+vaccinated person # 1333 is protected
+vaccinated person # 8678 is protected
+lucky person # 8050 didn't get sick
+person # 74 infected person # 7587!
+vaccinated person # 9883 is protected
+
+------ person # 75 ------
+lucky person # 6383 didn't get sick
+lucky person # 3166 didn't get sick
+vaccinated person # 4527 is protected
+vaccinated person # 11667 is protected
+vaccinated person # 2345 is protected
+lucky person # 5964 didn't get sick
+vaccinated person # 968 is protected
+lucky person # 7768 didn't get sick
+lucky person # 4044 didn't get sick
+vaccinated person # 3663 is protected
+vaccinated person # 10382 is protected
+person # 51 is already diseased
+
+------ person # 76 ------
+lucky person # 5244 didn't get sick
+vaccinated person # 7943 is protected
+lucky person # 5148 didn't get sick
+lucky person # 9912 didn't get sick
+vaccinated person # 8790 is protected
+lucky person # 3278 didn't get sick
+vaccinated person # 10588 is protected
+vaccinated person # 3084 is protected
+lucky person # 9797 didn't get sick
+lucky person # 9922 didn't get sick
+person # 1973 is already diseased
+lucky person # 4847 didn't get sick
+
+------ person # 77 ------
+lucky person # 179 didn't get sick
+lucky person # 4887 didn't get sick
+lucky person # 4278 didn't get sick
+lucky person # 3348 didn't get sick
+vaccinated person # 2362 is protected
+lucky person # 4856 didn't get sick
+lucky person # 416 didn't get sick
+vaccinated person # 475 is protected
+vaccinated person # 10685 is protected
+lucky person # 10560 didn't get sick
+vaccinated person # 6913 is protected
+lucky person # 1293 didn't get sick
+
+------ person # 78 ------
+vaccinated person # 4482 is protected
+vaccinated person # 7472 is protected
+lucky person # 4523 didn't get sick
+lucky person # 3241 didn't get sick
+lucky person # 11576 didn't get sick
+lucky person # 9942 didn't get sick
+vaccinated person # 7431 is protected
+vaccinated person # 4669 is protected
+lucky person # 2669 didn't get sick
+vaccinated person # 9616 is protected
+lucky person # 2106 didn't get sick
+vaccinated person # 5295 is protected
+
+------ person # 79 ------
+lucky person # 11805 didn't get sick
+person # 79 infected person # 6145!
+vaccinated person # 9015 is protected
+lucky person # 418 didn't get sick
+lucky person # 10307 didn't get sick
+vaccinated person # 7117 is protected
+lucky person # 10595 didn't get sick
+lucky person # 5308 didn't get sick
+vaccinated person # 6484 is protected
+vaccinated person # 2918 is protected
+vaccinated person # 5355 is protected
+vaccinated person # 10053 is protected
+
+------ person # 80 ------
+vaccinated person # 916 is protected
+vaccinated person # 11843 is protected
+vaccinated person # 11753 is protected
+lucky person # 11694 didn't get sick
+vaccinated person # 2162 is protected
+lucky person # 8140 didn't get sick
+person # 80 infected person # 1048!
+vaccinated person # 1115 is protected
+lucky person # 2297 didn't get sick
+vaccinated person # 2489 is protected
+vaccinated person # 1679 is protected
+vaccinated person # 8574 is protected
+
+<><><> Computing Deaths <><><>
+
+>>> person # 1 has survived the infection!
+>>> person # 2 has died...rest in peace...
+>>> person # 3 has survived the infection!
+>>> person # 4 has died...rest in peace...
+>>> person # 5 has survived the infection!
+>>> person # 6 has died...rest in peace...
+>>> person # 7 has survived the infection!
+>>> person # 8 has survived the infection!
+>>> person # 9 has survived the infection!
+>>> person # 10 has survived the infection!
+>>> person # 11 has died...rest in peace...
+>>> person # 12 has died...rest in peace...
+>>> person # 13 has died...rest in peace...
+>>> person # 14 has survived the infection!
+>>> person # 15 has survived the infection!
+>>> person # 16 has died...rest in peace...
+>>> person # 17 has died...rest in peace...
+>>> person # 18 has survived the infection!
+>>> person # 19 has died...rest in peace...
+>>> person # 20 has survived the infection!
+>>> person # 21 has survived the infection!
+>>> person # 22 has survived the infection!
+>>> person # 23 has died...rest in peace...
+>>> person # 24 has survived the infection!
+>>> person # 25 has survived the infection!
+>>> person # 26 has survived the infection!
+>>> person # 27 has died...rest in peace...
+>>> person # 28 has survived the infection!
+>>> person # 29 has survived the infection!
+>>> person # 30 has survived the infection!
+>>> person # 31 has survived the infection!
+>>> person # 32 has survived the infection!
+>>> person # 33 has died...rest in peace...
+>>> person # 34 has died...rest in peace...
+>>> person # 35 has survived the infection!
+>>> person # 36 has survived the infection!
+>>> person # 37 has died...rest in peace...
+>>> person # 38 has died...rest in peace...
+>>> person # 39 has died...rest in peace...
+>>> person # 40 has died...rest in peace...
+>>> person # 41 has survived the infection!
+>>> person # 42 has survived the infection!
+>>> person # 43 has died...rest in peace...
+>>> person # 44 has survived the infection!
+>>> person # 45 has survived the infection!
+>>> person # 46 has survived the infection!
+>>> person # 47 has survived the infection!
+>>> person # 48 has died...rest in peace...
+>>> person # 49 has died...rest in peace...
+>>> person # 50 has survived the infection!
+>>> person # 51 has survived the infection!
+>>> person # 52 has died...rest in peace...
+>>> person # 53 has survived the infection!
+>>> person # 54 has survived the infection!
+>>> person # 55 has survived the infection!
+>>> person # 56 has survived the infection!
+>>> person # 57 has died...rest in peace...
+>>> person # 58 has died...rest in peace...
+>>> person # 59 has survived the infection!
+>>> person # 60 has survived the infection!
+>>> person # 61 has survived the infection!
+>>> person # 62 has survived the infection!
+>>> person # 63 has survived the infection!
+>>> person # 64 has survived the infection!
+>>> person # 65 has survived the infection!
+>>> person # 66 has survived the infection!
+>>> person # 67 has died...rest in peace...
+>>> person # 68 has died...rest in peace...
+>>> person # 69 has survived the infection!
+>>> person # 70 has died...rest in peace...
+>>> person # 71 has survived the infection!
+>>> person # 72 has died...rest in peace...
+>>> person # 73 has survived the infection!
+>>> person # 74 has survived the infection!
+>>> person # 75 has died...rest in peace...
+>>> person # 76 has survived the infection!
+>>> person # 77 has died...rest in peace...
+>>> person # 78 has survived the infection!
+>>> person # 79 has died...rest in peace...
+>>> person # 80 has survived the infection!
+
+=========================
+cycle # 1 has ended...
+cycle # 2 is starting!
+=========================
+
+
+------ person # 686 ------
+lucky person # 10615 didn't get sick
+vaccinated person # 10259 is protected
+vaccinated person # 3766 is protected
+lucky person # 9289 didn't get sick
+lucky person # 4136 didn't get sick
+lucky person # 3553 didn't get sick
+vaccinated person # 8377 is protected
+lucky person # 391 didn't get sick
+lucky person # 5082 didn't get sick
+lucky person # 203 didn't get sick
+vaccinated person # 3548 is protected
+lucky person # 2967 didn't get sick
+
+------ person # 999 ------
+vaccinated person # 8056 is protected
+vaccinated person # 7868 is protected
+vaccinated person # 9191 is protected
+lucky person # 9780 didn't get sick
+vaccinated person # 4676 is protected
+vaccinated person # 10934 is protected
+vaccinated person # 4072 is protected
+vaccinated person # 1273 is protected
+vaccinated person # 10106 is protected
+vaccinated person # 1759 is protected
+vaccinated person # 5 is protected
+vaccinated person # 513 is protected
+
+------ person # 1043 ------
+vaccinated person # 184 is protected
+vaccinated person # 4495 is protected
+vaccinated person # 1 is protected
+vaccinated person # 4975 is protected
+vaccinated person # 7296 is protected
+vaccinated person # 6254 is protected
+lucky person # 11946 didn't get sick
+vaccinated person # 9314 is protected
+lucky person # 2616 didn't get sick
+lucky person # 1596 didn't get sick
+lucky person # 880 didn't get sick
+vaccinated person # 6038 is protected
+
+------ person # 1048 ------
+vaccinated person # 1247 is protected
+vaccinated person # 4589 is protected
+lucky person # 6843 didn't get sick
+lucky person # 10713 didn't get sick
+lucky person # 367 didn't get sick
+vaccinated person # 4877 is protected
+vaccinated person # 575 is protected
+vaccinated person # 1971 is protected
+vaccinated person # 4955 is protected
+vaccinated person # 2328 is protected
+vaccinated person # 4310 is protected
+vaccinated person # 7497 is protected
+
+------ person # 1069 ------
+vaccinated person # 3354 is protected
+vaccinated person # 1972 is protected
+lucky person # 10434 didn't get sick
+lucky person # 11175 didn't get sick
+vaccinated person # 498 is protected
+vaccinated person # 7811 is protected
+vaccinated person # 2863 is protected
+vaccinated person # 236 is protected
+vaccinated person # 1847 is protected
+vaccinated person # 1413 is protected
+lucky person # 11886 didn't get sick
+vaccinated person # 3855 is protected
+
+------ person # 1957 ------
+vaccinated person # 4476 is protected
+vaccinated person # 4425 is protected
+vaccinated person # 370 is protected
+lucky person # 11519 didn't get sick
+lucky person # 9231 didn't get sick
+vaccinated person # 7863 is protected
+vaccinated person # 1038 is protected
+person # 1957 infected person # 11991!
+vaccinated person # 11341 is protected
+vaccinated person # 2514 is protected
+vaccinated person # 3534 is protected
+vaccinated person # 1070 is protected
+
+------ person # 1973 ------
+lucky person # 7086 didn't get sick
+lucky person # 7632 didn't get sick
+lucky person # 6758 didn't get sick
+vaccinated person # 2868 is protected
+lucky person # 218 didn't get sick
+lucky person # 9455 didn't get sick
+lucky person # 723 didn't get sick
+vaccinated person # 10765 is protected
+vaccinated person # 1035 is protected
+lucky person # 4606 didn't get sick
+vaccinated person # 11642 is protected
+lucky person # 4619 didn't get sick
+
+------ person # 2023 ------
+vaccinated person # 10653 is protected
+person # 2023 infected person # 723!
+vaccinated person # 9229 is protected
+lucky person # 7134 didn't get sick
+vaccinated person # 9160 is protected
+lucky person # 11523 didn't get sick
+vaccinated person # 8007 is protected
+vaccinated person # 3795 is protected
+vaccinated person # 11732 is protected
+lucky person # 776 didn't get sick
+vaccinated person # 4698 is protected
+lucky person # 5969 didn't get sick
+
+------ person # 2270 ------
+vaccinated person # 6083 is protected
+vaccinated person # 11900 is protected
+vaccinated person # 9029 is protected
+lucky person # 8861 didn't get sick
+vaccinated person # 2388 is protected
+vaccinated person # 5256 is protected
+vaccinated person # 10480 is protected
+vaccinated person # 5684 is protected
+vaccinated person # 6673 is protected
+vaccinated person # 2852 is protected
+lucky person # 9515 didn't get sick
+lucky person # 6588 didn't get sick
+
+------ person # 2939 ------
+lucky person # 2419 didn't get sick
+lucky person # 11022 didn't get sick
+lucky person # 8104 didn't get sick
+vaccinated person # 11074 is protected
+lucky person # 8887 didn't get sick
+vaccinated person # 6683 is protected
+lucky person # 5905 didn't get sick
+lucky person # 7077 didn't get sick
+vaccinated person # 1417 is protected
+person # 2939 infected person # 9873!
+lucky person # 4151 didn't get sick
+lucky person # 2257 didn't get sick
+
+------ person # 3273 ------
+person # 3273 infected person # 10242!
+lucky person # 2377 didn't get sick
+person # 3273 infected person # 9812!
+vaccinated person # 5599 is protected
+vaccinated person # 8853 is protected
+vaccinated person # 10372 is protected
+vaccinated person # 2614 is protected
+vaccinated person # 9404 is protected
+vaccinated person # 2286 is protected
+lucky person # 3376 didn't get sick
+person # 3273 infected person # 11368!
+person # 3273 infected person # 6499!
+
+------ person # 3670 ------
+vaccinated person # 4175 is protected
+vaccinated person # 9021 is protected
+vaccinated person # 10893 is protected
+lucky person # 2700 didn't get sick
+lucky person # 3718 didn't get sick
+vaccinated person # 11213 is protected
+vaccinated person # 11636 is protected
+vaccinated person # 5491 is protected
+lucky person # 8020 didn't get sick
+vaccinated person # 1917 is protected
+lucky person # 5338 didn't get sick
+vaccinated person # 6124 is protected
+
+------ person # 3813 ------
+vaccinated person # 9454 is protected
+vaccinated person # 5753 is protected
+vaccinated person # 6686 is protected
+lucky person # 11272 didn't get sick
+vaccinated person # 1744 is protected
+vaccinated person # 3701 is protected
+lucky person # 10499 didn't get sick
+vaccinated person # 10556 is protected
+vaccinated person # 7437 is protected
+lucky person # 2553 didn't get sick
+vaccinated person # 11380 is protected
+vaccinated person # 3088 is protected
+
+------ person # 3888 ------
+person # 3888 infected person # 1767!
+lucky person # 8115 didn't get sick
+person # 3888 infected person # 2367!
+person # 3888 infected person # 1184!
+vaccinated person # 11390 is protected
+vaccinated person # 5026 is protected
+vaccinated person # 3966 is protected
+person # 3888 infected person # 6659!
+vaccinated person # 4967 is protected
+lucky person # 3432 didn't get sick
+lucky person # 8889 didn't get sick
+vaccinated person # 10468 is protected
+
+------ person # 3915 ------
+vaccinated person # 1169 is protected
+vaccinated person # 1099 is protected
+lucky person # 4155 didn't get sick
+lucky person # 7419 didn't get sick
+lucky person # 1951 didn't get sick
+vaccinated person # 6917 is protected
+lucky person # 5862 didn't get sick
+lucky person # 10847 didn't get sick
+lucky person # 6608 didn't get sick
+vaccinated person # 174 is protected
+vaccinated person # 11444 is protected
+vaccinated person # 9800 is protected
+
+------ person # 4226 ------
+vaccinated person # 10073 is protected
+vaccinated person # 9722 is protected
+vaccinated person # 687 is protected
+vaccinated person # 11130 is protected
+vaccinated person # 8052 is protected
+vaccinated person # 517 is protected
+lucky person # 8195 didn't get sick
+lucky person # 5239 didn't get sick
+lucky person # 5762 didn't get sick
+lucky person # 509 didn't get sick
+lucky person # 4194 didn't get sick
+lucky person # 11491 didn't get sick
+
+------ person # 4520 ------
+vaccinated person # 5752 is protected
+vaccinated person # 11222 is protected
+person # 4520 infected person # 8035!
+lucky person # 448 didn't get sick
+lucky person # 6228 didn't get sick
+lucky person # 635 didn't get sick
+vaccinated person # 7991 is protected
+lucky person # 1425 didn't get sick
+vaccinated person # 7786 is protected
+vaccinated person # 4135 is protected
+vaccinated person # 8918 is protected
+vaccinated person # 1512 is protected
+
+------ person # 4631 ------
+lucky person # 5528 didn't get sick
+vaccinated person # 3955 is protected
+vaccinated person # 9892 is protected
+person # 4631 infected person # 7691!
+vaccinated person # 563 is protected
+vaccinated person # 5292 is protected
+vaccinated person # 5078 is protected
+vaccinated person # 9061 is protected
+vaccinated person # 11543 is protected
+lucky person # 7398 didn't get sick
+vaccinated person # 3550 is protected
+lucky person # 10066 didn't get sick
+
+------ person # 5137 ------
+vaccinated person # 463 is protected
+vaccinated person # 8297 is protected
+lucky person # 7283 didn't get sick
+vaccinated person # 1134 is protected
+person # 5137 infected person # 8229!
+vaccinated person # 2972 is protected
+vaccinated person # 7593 is protected
+lucky person # 4505 didn't get sick
+vaccinated person # 11430 is protected
+lucky person # 9266 didn't get sick
+lucky person # 6364 didn't get sick
+lucky person # 8786 didn't get sick
+
+------ person # 5426 ------
+lucky person # 4807 didn't get sick
+vaccinated person # 2667 is protected
+lucky person # 653 didn't get sick
+lucky person # 4759 didn't get sick
+lucky person # 9853 didn't get sick
+vaccinated person # 5434 is protected
+lucky person # 6997 didn't get sick
+lucky person # 1798 didn't get sick
+vaccinated person # 11261 is protected
+lucky person # 2539 didn't get sick
+vaccinated person # 1260 is protected
+lucky person # 3268 didn't get sick
+
+------ person # 6145 ------
+lucky person # 3661 didn't get sick
+vaccinated person # 5573 is protected
+lucky person # 11193 didn't get sick
+lucky person # 9564 didn't get sick
+lucky person # 8086 didn't get sick
+lucky person # 3749 didn't get sick
+lucky person # 11702 didn't get sick
+lucky person # 7289 didn't get sick
+vaccinated person # 11489 is protected
+person # 6145 infected person # 1903!
+vaccinated person # 1664 is protected
+lucky person # 2697 didn't get sick
+
+------ person # 6991 ------
+person # 11368 is already diseased
+lucky person # 6035 didn't get sick
+person # 6991 infected person # 10403!
+lucky person # 8906 didn't get sick
+vaccinated person # 1743 is protected
+lucky person # 6861 didn't get sick
+lucky person # 7764 didn't get sick
+vaccinated person # 550 is protected
+vaccinated person # 4572 is protected
+lucky person # 7154 didn't get sick
+lucky person # 9139 didn't get sick
+vaccinated person # 11514 is protected
+
+------ person # 7178 ------
+lucky person # 2254 didn't get sick
+lucky person # 1983 didn't get sick
+person # 7178 infected person # 396!
+vaccinated person # 2658 is protected
+vaccinated person # 1417 is protected
+vaccinated person # 9351 is protected
+vaccinated person # 3066 is protected
+lucky person # 10897 didn't get sick
+vaccinated person # 3226 is protected
+vaccinated person # 7316 is protected
+vaccinated person # 10821 is protected
+lucky person # 8953 didn't get sick
+
+------ person # 7326 ------
+vaccinated person # 6771 is protected
+lucky person # 1899 didn't get sick
+lucky person # 9172 didn't get sick
+vaccinated person # 652 is protected
+person # 7326 infected person # 3808!
+vaccinated person # 3319 is protected
+vaccinated person # 2417 is protected
+lucky person # 4926 didn't get sick
+lucky person # 2185 didn't get sick
+lucky person # 11502 didn't get sick
+vaccinated person # 6409 is protected
+vaccinated person # 184 is protected
+
+------ person # 7343 ------
+person # 7343 infected person # 4970!
+lucky person # 2246 didn't get sick
+vaccinated person # 5238 is protected
+lucky person # 3994 didn't get sick
+lucky person # 7875 didn't get sick
+vaccinated person # 3500 is protected
+lucky person # 3093 didn't get sick
+vaccinated person # 10887 is protected
+vaccinated person # 7785 is protected
+lucky person # 7844 didn't get sick
+vaccinated person # 7852 is protected
+lucky person # 3512 didn't get sick
+
+------ person # 7377 ------
+lucky person # 8354 didn't get sick
+lucky person # 2383 didn't get sick
+vaccinated person # 1115 is protected
+vaccinated person # 7829 is protected
+vaccinated person # 8416 is protected
+lucky person # 1191 didn't get sick
+vaccinated person # 9282 is protected
+vaccinated person # 2702 is protected
+vaccinated person # 4052 is protected
+vaccinated person # 10281 is protected
+vaccinated person # 6780 is protected
+vaccinated person # 10261 is protected
+
+------ person # 7587 ------
+vaccinated person # 978 is protected
+lucky person # 7077 didn't get sick
+vaccinated person # 704 is protected
+lucky person # 5253 didn't get sick
+vaccinated person # 6469 is protected
+lucky person # 454 didn't get sick
+vaccinated person # 3159 is protected
+vaccinated person # 11012 is protected
+lucky person # 11911 didn't get sick
+lucky person # 6128 didn't get sick
+vaccinated person # 6409 is protected
+vaccinated person # 7379 is protected
+
+------ person # 7977 ------
+lucky person # 8349 didn't get sick
+lucky person # 6661 didn't get sick
+vaccinated person # 10587 is protected
+lucky person # 10412 didn't get sick
+lucky person # 2577 didn't get sick
+vaccinated person # 3956 is protected
+lucky person # 9818 didn't get sick
+vaccinated person # 8545 is protected
+vaccinated person # 4715 is protected
+vaccinated person # 8150 is protected
+vaccinated person # 1230 is protected
+vaccinated person # 7096 is protected
+
+------ person # 8156 ------
+lucky person # 10509 didn't get sick
+vaccinated person # 655 is protected
+vaccinated person # 6056 is protected
+lucky person # 4546 didn't get sick
+vaccinated person # 6447 is protected
+vaccinated person # 4604 is protected
+vaccinated person # 7616 is protected
+vaccinated person # 10660 is protected
+lucky person # 5598 didn't get sick
+vaccinated person # 4976 is protected
+lucky person # 8779 didn't get sick
+vaccinated person # 9927 is protected
+
+------ person # 8184 ------
+lucky person # 6326 didn't get sick
+vaccinated person # 11281 is protected
+lucky person # 9661 didn't get sick
+lucky person # 11394 didn't get sick
+vaccinated person # 9180 is protected
+vaccinated person # 11180 is protected
+lucky person # 9919 didn't get sick
+vaccinated person # 9823 is protected
+vaccinated person # 10835 is protected
+vaccinated person # 9407 is protected
+vaccinated person # 2249 is protected
+vaccinated person # 7692 is protected
+
+------ person # 8827 ------
+vaccinated person # 10099 is protected
+lucky person # 10346 didn't get sick
+lucky person # 1032 didn't get sick
+vaccinated person # 4124 is protected
+lucky person # 10311 didn't get sick
+lucky person # 4397 didn't get sick
+vaccinated person # 4448 is protected
+vaccinated person # 4739 is protected
+vaccinated person # 9745 is protected
+vaccinated person # 8419 is protected
+vaccinated person # 3734 is protected
+lucky person # 5136 didn't get sick
+
+------ person # 9322 ------
+lucky person # 3144 didn't get sick
+vaccinated person # 5490 is protected
+lucky person # 8484 didn't get sick
+lucky person # 11081 didn't get sick
+vaccinated person # 6745 is protected
+vaccinated person # 4565 is protected
+lucky person # 4325 didn't get sick
+vaccinated person # 9800 is protected
+vaccinated person # 6950 is protected
+vaccinated person # 10981 is protected
+lucky person # 10807 didn't get sick
+lucky person # 3086 didn't get sick
+
+------ person # 9344 ------
+vaccinated person # 5923 is protected
+vaccinated person # 11677 is protected
+vaccinated person # 8894 is protected
+vaccinated person # 9061 is protected
+lucky person # 5262 didn't get sick
+lucky person # 3350 didn't get sick
+vaccinated person # 7584 is protected
+vaccinated person # 9538 is protected
+lucky person # 8526 didn't get sick
+vaccinated person # 2842 is protected
+vaccinated person # 1921 is protected
+vaccinated person # 11883 is protected
+
+------ person # 10143 ------
+vaccinated person # 9800 is protected
+lucky person # 10380 didn't get sick
+lucky person # 5528 didn't get sick
+vaccinated person # 3000 is protected
+vaccinated person # 10613 is protected
+vaccinated person # 8145 is protected
+lucky person # 6146 didn't get sick
+vaccinated person # 4026 is protected
+vaccinated person # 6421 is protected
+vaccinated person # 7941 is protected
+vaccinated person # 11759 is protected
+lucky person # 4438 didn't get sick
+
+------ person # 10221 ------
+vaccinated person # 1181 is protected
+lucky person # 4139 didn't get sick
+lucky person # 2040 didn't get sick
+vaccinated person # 6173 is protected
+lucky person # 9027 didn't get sick
+lucky person # 6445 didn't get sick
+vaccinated person # 54 is protected
+lucky person # 1092 didn't get sick
+vaccinated person # 3100 is protected
+vaccinated person # 4181 is protected
+vaccinated person # 8120 is protected
+vaccinated person # 7460 is protected
+
+------ person # 10733 ------
+lucky person # 4354 didn't get sick
+lucky person # 836 didn't get sick
+lucky person # 7010 didn't get sick
+vaccinated person # 10294 is protected
+lucky person # 8024 didn't get sick
+vaccinated person # 9757 is protected
+person # 10733 infected person # 1772!
+vaccinated person # 7809 is protected
+person # 10733 infected person # 7167!
+vaccinated person # 6342 is protected
+vaccinated person # 5134 is protected
+vaccinated person # 1959 is protected
+
+------ person # 11019 ------
+vaccinated person # 1761 is protected
+person # 11019 infected person # 8988!
+vaccinated person # 8771 is protected
+vaccinated person # 4399 is protected
+person # 11019 infected person # 2089!
+vaccinated person # 1572 is protected
+vaccinated person # 11258 is protected
+vaccinated person # 6939 is protected
+vaccinated person # 3360 is protected
+vaccinated person # 655 is protected
+lucky person # 10828 didn't get sick
+lucky person # 9292 didn't get sick
+
+------ person # 11569 ------
+vaccinated person # 4657 is protected
+vaccinated person # 7043 is protected
+vaccinated person # 3944 is protected
+vaccinated person # 3777 is protected
+lucky person # 3612 didn't get sick
+vaccinated person # 10136 is protected
+lucky person # 9896 didn't get sick
+lucky person # 9354 didn't get sick
+lucky person # 4374 didn't get sick
+vaccinated person # 9061 is protected
+vaccinated person # 5798 is protected
+lucky person # 3875 didn't get sick
+
+------ person # 11574 ------
+vaccinated person # 6280 is protected
+person # 11574 infected person # 3329!
+vaccinated person # 8878 is protected
+lucky person # 10101 didn't get sick
+vaccinated person # 286 is protected
+lucky person # 2629 didn't get sick
+vaccinated person # 1495 is protected
+lucky person # 9366 didn't get sick
+vaccinated person # 10069 is protected
+vaccinated person # 4424 is protected
+vaccinated person # 7973 is protected
+vaccinated person # 2043 is protected
+
+------ person # 11726 ------
+lucky person # 2714 didn't get sick
+lucky person # 2845 didn't get sick
+vaccinated person # 3613 is protected
+vaccinated person # 4582 is protected
+vaccinated person # 1760 is protected
+lucky person # 3918 didn't get sick
+vaccinated person # 11004 is protected
+vaccinated person # 5062 is protected
+vaccinated person # 7139 is protected
+vaccinated person # 9506 is protected
+lucky person # 9836 didn't get sick
+lucky person # 6344 didn't get sick
+
+------ person # 11815 ------
+lucky person # 2464 didn't get sick
+vaccinated person # 6301 is protected
+vaccinated person # 10080 is protected
+person # 11815 infected person # 6230!
+vaccinated person # 378 is protected
+lucky person # 8873 didn't get sick
+vaccinated person # 4454 is protected
+vaccinated person # 3363 is protected
+lucky person # 11040 didn't get sick
+vaccinated person # 8060 is protected
+vaccinated person # 7161 is protected
+vaccinated person # 8593 is protected
+
+------ person # 11885 ------
+lucky person # 7245 didn't get sick
+vaccinated person # 9939 is protected
+vaccinated person # 3367 is protected
+lucky person # 6112 didn't get sick
+vaccinated person # 2368 is protected
+vaccinated person # 11531 is protected
+lucky person # 1268 didn't get sick
+vaccinated person # 9852 is protected
+lucky person # 11459 didn't get sick
+vaccinated person # 11202 is protected
+vaccinated person # 6192 is protected
+lucky person # 2761 didn't get sick
+
+<><><> Computing Deaths <><><>
+
+>>> person # 2023 has died...rest in peace...
+>>> person # 11019 has died...rest in peace...
+>>> person # 4520 has survived the infection!
+>>> person # 3915 has survived the infection!
+>>> person # 8827 has died...rest in peace...
+>>> person # 9344 has survived the infection!
+>>> person # 3670 has died...rest in peace...
+>>> person # 7178 has survived the infection!
+>>> person # 3813 has survived the infection!
+>>> person # 2939 has survived the infection!
+>>> person # 2270 has survived the infection!
+>>> person # 4226 has survived the infection!
+>>> person # 999 has survived the infection!
+>>> person # 11574 has survived the infection!
+>>> person # 1973 has survived the infection!
+>>> person # 4631 has survived the infection!
+>>> person # 7343 has died...rest in peace...
+>>> person # 6991 has died...rest in peace...
+>>> person # 8156 has died...rest in peace...
+>>> person # 5426 has survived the infection!
+>>> person # 686 has survived the infection!
+>>> person # 11726 has survived the infection!
+>>> person # 1957 has died...rest in peace...
+>>> person # 9322 has survived the infection!
+>>> person # 1043 has survived the infection!
+>>> person # 1069 has survived the infection!
+>>> person # 10143 has survived the infection!
+>>> person # 11815 has survived the infection!
+>>> person # 10221 has survived the infection!
+>>> person # 7326 has survived the infection!
+>>> person # 7377 has survived the infection!
+>>> person # 3888 has died...rest in peace...
+>>> person # 3273 has survived the infection!
+>>> person # 10733 has died...rest in peace...
+>>> person # 5137 has survived the infection!
+>>> person # 7977 has died...rest in peace...
+>>> person # 8184 has died...rest in peace...
+>>> person # 11569 has survived the infection!
+>>> person # 11885 has survived the infection!
+>>> person # 7587 has died...rest in peace...
+>>> person # 6145 has survived the infection!
+>>> person # 1048 has died...rest in peace...
+
+=========================
+cycle # 2 has ended...
+cycle # 3 is starting!
+=========================
+
+
+------ person # 396 ------
+vaccinated person # 3048 is protected
+vaccinated person # 3755 is protected
+lucky person # 6711 didn't get sick
+vaccinated person # 5108 is protected
+lucky person # 2731 didn't get sick
+lucky person # 8534 didn't get sick
+lucky person # 1095 didn't get sick
+lucky person # 3803 didn't get sick
+lucky person # 1513 didn't get sick
+vaccinated person # 10183 is protected
+vaccinated person # 855 is protected
+vaccinated person # 9392 is protected
+
+------ person # 723 ------
+vaccinated person # 6935 is protected
+lucky person # 2752 didn't get sick
+vaccinated person # 3872 is protected
+lucky person # 282 didn't get sick
+vaccinated person # 3204 is protected
+vaccinated person # 9879 is protected
+vaccinated person # 11681 is protected
+lucky person # 1264 didn't get sick
+vaccinated person # 1105 is protected
+vaccinated person # 1667 is protected
+vaccinated person # 4416 is protected
+vaccinated person # 2934 is protected
+
+------ person # 1184 ------
+vaccinated person # 6045 is protected
+vaccinated person # 11851 is protected
+lucky person # 2932 didn't get sick
+vaccinated person # 2503 is protected
+lucky person # 8747 didn't get sick
+lucky person # 3063 didn't get sick
+lucky person # 4028 didn't get sick
+lucky person # 144 didn't get sick
+lucky person # 5338 didn't get sick
+vaccinated person # 2817 is protected
+lucky person # 4468 didn't get sick
+vaccinated person # 8419 is protected
+
+------ person # 1767 ------
+vaccinated person # 3964 is protected
+vaccinated person # 9979 is protected
+vaccinated person # 6018 is protected
+vaccinated person # 9405 is protected
+vaccinated person # 4577 is protected
+vaccinated person # 7580 is protected
+vaccinated person # 4029 is protected
+vaccinated person # 7458 is protected
+vaccinated person # 2870 is protected
+vaccinated person # 11646 is protected
+lucky person # 1801 didn't get sick
+lucky person # 11700 didn't get sick
+
+------ person # 1772 ------
+lucky person # 693 didn't get sick
+lucky person # 1100 didn't get sick
+vaccinated person # 6186 is protected
+lucky person # 2229 didn't get sick
+vaccinated person # 10 is protected
+lucky person # 4710 didn't get sick
+vaccinated person # 7556 is protected
+vaccinated person # 8673 is protected
+person # 8035 is already diseased
+lucky person # 11110 didn't get sick
+lucky person # 6478 didn't get sick
+lucky person # 9027 didn't get sick
+
+------ person # 1903 ------
+lucky person # 11770 didn't get sick
+vaccinated person # 6639 is protected
+lucky person # 4120 didn't get sick
+vaccinated person # 8579 is protected
+lucky person # 6682 didn't get sick
+vaccinated person # 2735 is protected
+lucky person # 8248 didn't get sick
+vaccinated person # 8192 is protected
+vaccinated person # 2069 is protected
+vaccinated person # 597 is protected
+lucky person # 3393 didn't get sick
+lucky person # 1204 didn't get sick
+
+------ person # 2089 ------
+lucky person # 6122 didn't get sick
+vaccinated person # 392 is protected
+vaccinated person # 5155 is protected
+vaccinated person # 7986 is protected
+lucky person # 3257 didn't get sick
+lucky person # 263 didn't get sick
+vaccinated person # 3535 is protected
+lucky person # 7142 didn't get sick
+lucky person # 10469 didn't get sick
+vaccinated person # 2414 is protected
+vaccinated person # 7380 is protected
+vaccinated person # 9684 is protected
+
+------ person # 2367 ------
+vaccinated person # 269 is protected
+lucky person # 3722 didn't get sick
+vaccinated person # 7196 is protected
+vaccinated person # 4146 is protected
+vaccinated person # 7980 is protected
+vaccinated person # 6545 is protected
+vaccinated person # 7646 is protected
+lucky person # 11687 didn't get sick
+vaccinated person # 7627 is protected
+lucky person # 6091 didn't get sick
+lucky person # 3355 didn't get sick
+vaccinated person # 7598 is protected
+
+------ person # 3329 ------
+lucky person # 10487 didn't get sick
+lucky person # 1660 didn't get sick
+vaccinated person # 4842 is protected
+vaccinated person # 6131 is protected
+lucky person # 871 didn't get sick
+vaccinated person # 5747 is protected
+vaccinated person # 7626 is protected
+person # 3329 infected person # 6339!
+vaccinated person # 10714 is protected
+vaccinated person # 7107 is protected
+lucky person # 1281 didn't get sick
+vaccinated person # 9811 is protected
+
+------ person # 3808 ------
+vaccinated person # 7856 is protected
+vaccinated person # 1111 is protected
+vaccinated person # 5777 is protected
+vaccinated person # 5432 is protected
+lucky person # 3171 didn't get sick
+person # 3808 infected person # 5087!
+lucky person # 8309 didn't get sick
+vaccinated person # 2720 is protected
+lucky person # 182 didn't get sick
+lucky person # 1662 didn't get sick
+vaccinated person # 2395 is protected
+lucky person # 11662 didn't get sick
+
+------ person # 4970 ------
+vaccinated person # 5473 is protected
+vaccinated person # 10044 is protected
+lucky person # 7543 didn't get sick
+lucky person # 5686 didn't get sick
+vaccinated person # 10192 is protected
+lucky person # 5351 didn't get sick
+vaccinated person # 4669 is protected
+vaccinated person # 6033 is protected
+lucky person # 835 didn't get sick
+vaccinated person # 8478 is protected
+lucky person # 9603 didn't get sick
+lucky person # 2022 didn't get sick
+
+------ person # 6230 ------
+vaccinated person # 9280 is protected
+lucky person # 8290 didn't get sick
+lucky person # 1103 didn't get sick
+vaccinated person # 2514 is protected
+vaccinated person # 6194 is protected
+vaccinated person # 5412 is protected
+vaccinated person # 10830 is protected
+vaccinated person # 11710 is protected
+lucky person # 7211 didn't get sick
+person # 6230 infected person # 11994!
+vaccinated person # 11848 is protected
+vaccinated person # 10415 is protected
+
+------ person # 6499 ------
+vaccinated person # 6290 is protected
+vaccinated person # 4519 is protected
+vaccinated person # 6464 is protected
+vaccinated person # 3609 is protected
+vaccinated person # 687 is protected
+person # 723 is already diseased
+vaccinated person # 4967 is protected
+lucky person # 199 didn't get sick
+lucky person # 2182 didn't get sick
+lucky person # 3191 didn't get sick
+lucky person # 6865 didn't get sick
+vaccinated person # 9339 is protected
+
+------ person # 6659 ------
+vaccinated person # 9310 is protected
+vaccinated person # 4181 is protected
+lucky person # 3451 didn't get sick
+vaccinated person # 10 is protected
+vaccinated person # 1087 is protected
+lucky person # 2680 didn't get sick
+lucky person # 615 didn't get sick
+lucky person # 4357 didn't get sick
+person # 6659 infected person # 11924!
+lucky person # 7915 didn't get sick
+vaccinated person # 1085 is protected
+vaccinated person # 3596 is protected
+
+------ person # 7167 ------
+vaccinated person # 5616 is protected
+lucky person # 10107 didn't get sick
+vaccinated person # 11929 is protected
+lucky person # 6098 didn't get sick
+lucky person # 7685 didn't get sick
+vaccinated person # 4229 is protected
+lucky person # 9459 didn't get sick
+vaccinated person # 9156 is protected
+lucky person # 8982 didn't get sick
+lucky person # 5418 didn't get sick
+vaccinated person # 10356 is protected
+lucky person # 10905 didn't get sick
+
+------ person # 7691 ------
+vaccinated person # 4019 is protected
+person # 7691 infected person # 3707!
+vaccinated person # 365 is protected
+vaccinated person # 7112 is protected
+vaccinated person # 7924 is protected
+vaccinated person # 4463 is protected
+vaccinated person # 5381 is protected
+vaccinated person # 8344 is protected
+vaccinated person # 4929 is protected
+vaccinated person # 8182 is protected
+lucky person # 11877 didn't get sick
+lucky person # 6637 didn't get sick
+
+------ person # 8035 ------
+lucky person # 4222 didn't get sick
+vaccinated person # 1745 is protected
+lucky person # 2426 didn't get sick
+lucky person # 9097 didn't get sick
+lucky person # 3666 didn't get sick
+lucky person # 3590 didn't get sick
+vaccinated person # 4080 is protected
+lucky person # 7614 didn't get sick
+lucky person # 2513 didn't get sick
+vaccinated person # 1616 is protected
+lucky person # 11436 didn't get sick
+vaccinated person # 8893 is protected
+
+------ person # 8229 ------
+vaccinated person # 10861 is protected
+vaccinated person # 1087 is protected
+lucky person # 5145 didn't get sick
+vaccinated person # 933 is protected
+vaccinated person # 7141 is protected
+person # 8229 infected person # 6654!
+vaccinated person # 7085 is protected
+lucky person # 2526 didn't get sick
+vaccinated person # 6792 is protected
+vaccinated person # 7761 is protected
+lucky person # 502 didn't get sick
+vaccinated person # 5474 is protected
+
+------ person # 8988 ------
+vaccinated person # 8059 is protected
+vaccinated person # 6494 is protected
+vaccinated person # 9643 is protected
+vaccinated person # 3507 is protected
+vaccinated person # 6643 is protected
+vaccinated person # 7050 is protected
+lucky person # 3854 didn't get sick
+lucky person # 4696 didn't get sick
+vaccinated person # 3988 is protected
+lucky person # 10013 didn't get sick
+vaccinated person # 2702 is protected
+vaccinated person # 5512 is protected
+
+------ person # 9812 ------
+lucky person # 1358 didn't get sick
+person # 9812 infected person # 1651!
+lucky person # 1346 didn't get sick
+vaccinated person # 1350 is protected
+vaccinated person # 140 is protected
+person # 9812 infected person # 2464!
+vaccinated person # 8860 is protected
+lucky person # 7028 didn't get sick
+vaccinated person # 8079 is protected
+vaccinated person # 1517 is protected
+lucky person # 11436 didn't get sick
+vaccinated person # 10627 is protected
+
+------ person # 9873 ------
+vaccinated person # 11121 is protected
+person # 9873 infected person # 11235!
+vaccinated person # 11471 is protected
+vaccinated person # 5854 is protected
+vaccinated person # 10914 is protected
+lucky person # 9373 didn't get sick
+lucky person # 1434 didn't get sick
+lucky person # 663 didn't get sick
+lucky person # 2709 didn't get sick
+lucky person # 5079 didn't get sick
+lucky person # 5414 didn't get sick
+lucky person # 1640 didn't get sick
+
+------ person # 10242 ------
+person # 8035 is already diseased
+lucky person # 1762 didn't get sick
+lucky person # 4381 didn't get sick
+vaccinated person # 9725 is protected
+vaccinated person # 4777 is protected
+lucky person # 10089 didn't get sick
+vaccinated person # 8624 is protected
+vaccinated person # 1175 is protected
+vaccinated person # 10047 is protected
+lucky person # 4664 didn't get sick
+vaccinated person # 2274 is protected
+lucky person # 1065 didn't get sick
+
+------ person # 10403 ------
+lucky person # 8134 didn't get sick
+lucky person # 9938 didn't get sick
+lucky person # 3667 didn't get sick
+lucky person # 11293 didn't get sick
+vaccinated person # 4650 is protected
+lucky person # 525 didn't get sick
+lucky person # 6449 didn't get sick
+vaccinated person # 5552 is protected
+vaccinated person # 10903 is protected
+lucky person # 2669 didn't get sick
+vaccinated person # 11396 is protected
+lucky person # 7751 didn't get sick
+
+------ person # 11368 ------
+lucky person # 5068 didn't get sick
+person # 11368 infected person # 10917!
+person # 11368 infected person # 5353!
+vaccinated person # 3450 is protected
+lucky person # 3945 didn't get sick
+vaccinated person # 7562 is protected
+vaccinated person # 2437 is protected
+vaccinated person # 11529 is protected
+lucky person # 2545 didn't get sick
+person # 11368 infected person # 603!
+lucky person # 1303 didn't get sick
+lucky person # 964 didn't get sick
+
+------ person # 11991 ------
+vaccinated person # 9491 is protected
+lucky person # 3920 didn't get sick
+vaccinated person # 11777 is protected
+lucky person # 7892 didn't get sick
+lucky person # 7134 didn't get sick
+lucky person # 6717 didn't get sick
+vaccinated person # 2009 is protected
+vaccinated person # 10563 is protected
+vaccinated person # 10956 is protected
+vaccinated person # 11013 is protected
+person # 11991 infected person # 9051!
+lucky person # 11962 didn't get sick
+
+<><><> Computing Deaths <><><>
+
+>>> person # 11991 has died...rest in peace...
+>>> person # 723 has died...rest in peace...
+>>> person # 9873 has died...rest in peace...
+>>> person # 10242 has survived the infection!
+>>> person # 9812 has died...rest in peace...
+>>> person # 11368 has died...rest in peace...
+>>> person # 6499 has survived the infection!
+>>> person # 1767 has survived the infection!
+>>> person # 2367 has survived the infection!
+>>> person # 1184 has survived the infection!
+>>> person # 6659 has survived the infection!
+>>> person # 8035 has died...rest in peace...
+>>> person # 7691 has survived the infection!
+>>> person # 8229 has survived the infection!
+>>> person # 1903 has survived the infection!
+>>> person # 10403 has survived the infection!
+>>> person # 396 has survived the infection!
+>>> person # 3808 has survived the infection!
+>>> person # 4970 has survived the infection!
+>>> person # 1772 has died...rest in peace...
+>>> person # 7167 has survived the infection!
+>>> person # 8988 has survived the infection!
+>>> person # 2089 has survived the infection!
+>>> person # 3329 has survived the infection!
+>>> person # 6230 has survived the infection!
+
+=========================
+cycle # 3 has ended...
+cycle # 4 is starting!
+=========================
+
+
+------ person # 603 ------
+person # 603 infected person # 2428!
+vaccinated person # 689 is protected
+vaccinated person # 2301 is protected
+vaccinated person # 3936 is protected
+vaccinated person # 8406 is protected
+vaccinated person # 9900 is protected
+vaccinated person # 8120 is protected
+person # 603 infected person # 4557!
+lucky person # 3317 didn't get sick
+lucky person # 11819 didn't get sick
+vaccinated person # 2961 is protected
+lucky person # 6854 didn't get sick
+
+------ person # 1651 ------
+lucky person # 5525 didn't get sick
+vaccinated person # 45 is protected
+lucky person # 1715 didn't get sick
+lucky person # 7914 didn't get sick
+lucky person # 8214 didn't get sick
+vaccinated person # 3307 is protected
+lucky person # 3462 didn't get sick
+vaccinated person # 2424 is protected
+vaccinated person # 5453 is protected
+vaccinated person # 11156 is protected
+vaccinated person # 10801 is protected
+lucky person # 8283 didn't get sick
+
+------ person # 2464 ------
+person # 2464 infected person # 11982!
+lucky person # 646 didn't get sick
+vaccinated person # 7455 is protected
+vaccinated person # 11784 is protected
+lucky person # 9685 didn't get sick
+person # 2464 infected person # 8967!
+lucky person # 4756 didn't get sick
+lucky person # 8831 didn't get sick
+lucky person # 7482 didn't get sick
+vaccinated person # 731 is protected
+lucky person # 4664 didn't get sick
+lucky person # 5454 didn't get sick
+
+------ person # 3707 ------
+vaccinated person # 5164 is protected
+vaccinated person # 9683 is protected
+lucky person # 3652 didn't get sick
+vaccinated person # 7363 is protected
+person # 3707 infected person # 4338!
+lucky person # 4922 didn't get sick
+vaccinated person # 10690 is protected
+lucky person # 635 didn't get sick
+vaccinated person # 3762 is protected
+vaccinated person # 10961 is protected
+lucky person # 9503 didn't get sick
+lucky person # 4167 didn't get sick
+
+------ person # 5087 ------
+vaccinated person # 7047 is protected
+vaccinated person # 784 is protected
+vaccinated person # 1249 is protected
+vaccinated person # 4487 is protected
+vaccinated person # 8775 is protected
+vaccinated person # 8961 is protected
+vaccinated person # 6833 is protected
+vaccinated person # 269 is protected
+lucky person # 8228 didn't get sick
+lucky person # 10497 didn't get sick
+vaccinated person # 5022 is protected
+lucky person # 9846 didn't get sick
+
+------ person # 5353 ------
+lucky person # 8751 didn't get sick
+vaccinated person # 10836 is protected
+person # 9051 is already diseased
+vaccinated person # 4712 is protected
+person # 5353 infected person # 1899!
+vaccinated person # 3849 is protected
+vaccinated person # 6377 is protected
+vaccinated person # 9194 is protected
+vaccinated person # 11899 is protected
+vaccinated person # 5387 is protected
+vaccinated person # 2905 is protected
+lucky person # 8938 didn't get sick
+
+------ person # 6339 ------
+vaccinated person # 5387 is protected
+lucky person # 10599 didn't get sick
+lucky person # 4024 didn't get sick
+lucky person # 7865 didn't get sick
+vaccinated person # 339 is protected
+lucky person # 1631 didn't get sick
+lucky person # 2130 didn't get sick
+person # 6339 infected person # 11984!
+vaccinated person # 4235 is protected
+lucky person # 2773 didn't get sick
+vaccinated person # 10781 is protected
+vaccinated person # 4796 is protected
+
+------ person # 6654 ------
+vaccinated person # 5071 is protected
+lucky person # 8887 didn't get sick
+lucky person # 11333 didn't get sick
+vaccinated person # 8992 is protected
+vaccinated person # 10473 is protected
+vaccinated person # 1124 is protected
+vaccinated person # 1250 is protected
+lucky person # 2551 didn't get sick
+lucky person # 1992 didn't get sick
+vaccinated person # 55 is protected
+person # 6654 infected person # 3930!
+vaccinated person # 1083 is protected
+
+------ person # 9051 ------
+vaccinated person # 7394 is protected
+lucky person # 5531 didn't get sick
+vaccinated person # 1990 is protected
+lucky person # 8203 didn't get sick
+person # 9051 infected person # 8763!
+vaccinated person # 7627 is protected
+vaccinated person # 8374 is protected
+vaccinated person # 2002 is protected
+vaccinated person # 7890 is protected
+vaccinated person # 10954 is protected
+lucky person # 10075 didn't get sick
+vaccinated person # 4562 is protected
+
+------ person # 10917 ------
+vaccinated person # 3102 is protected
+vaccinated person # 8936 is protected
+vaccinated person # 4102 is protected
+vaccinated person # 11887 is protected
+vaccinated person # 299 is protected
+vaccinated person # 10168 is protected
+vaccinated person # 1417 is protected
+lucky person # 1041 didn't get sick
+lucky person # 2662 didn't get sick
+lucky person # 2392 didn't get sick
+lucky person # 5612 didn't get sick
+vaccinated person # 2632 is protected
+
+------ person # 11235 ------
+vaccinated person # 10348 is protected
+vaccinated person # 5758 is protected
+lucky person # 489 didn't get sick
+vaccinated person # 5575 is protected
+lucky person # 6381 didn't get sick
+vaccinated person # 7089 is protected
+lucky person # 1698 didn't get sick
+vaccinated person # 8402 is protected
+lucky person # 6599 didn't get sick
+vaccinated person # 3482 is protected
+vaccinated person # 2747 is protected
+vaccinated person # 3119 is protected
+
+------ person # 11924 ------
+lucky person # 3716 didn't get sick
+vaccinated person # 10766 is protected
+vaccinated person # 8101 is protected
+vaccinated person # 9136 is protected
+vaccinated person # 7503 is protected
+vaccinated person # 6347 is protected
+person # 11924 infected person # 5281!
+vaccinated person # 10534 is protected
+vaccinated person # 6046 is protected
+vaccinated person # 3263 is protected
+lucky person # 688 didn't get sick
+vaccinated person # 597 is protected
+
+------ person # 11994 ------
+vaccinated person # 10889 is protected
+vaccinated person # 6104 is protected
+lucky person # 10630 didn't get sick
+lucky person # 5550 didn't get sick
+lucky person # 6811 didn't get sick
+vaccinated person # 122 is protected
+vaccinated person # 5165 is protected
+vaccinated person # 7599 is protected
+lucky person # 1398 didn't get sick
+vaccinated person # 2199 is protected
+lucky person # 1575 didn't get sick
+lucky person # 9752 didn't get sick
+
+<><><> Computing Deaths <><><>
+
+>>> person # 6339 has survived the infection!
+>>> person # 5087 has died...rest in peace...
+>>> person # 11994 has survived the infection!
+>>> person # 11924 has survived the infection!
+>>> person # 3707 has survived the infection!
+>>> person # 6654 has died...rest in peace...
+>>> person # 1651 has survived the infection!
+>>> person # 2464 has survived the infection!
+>>> person # 11235 has died...rest in peace...
+>>> person # 10917 has died...rest in peace...
+>>> person # 5353 has survived the infection!
+>>> person # 603 has survived the infection!
+>>> person # 9051 has survived the infection!
+
+=========================
+cycle # 4 has ended...
+cycle # 5 is starting!
+=========================
+
+
+------ person # 1899 ------
+vaccinated person # 11402 is protected
+vaccinated person # 4232 is protected
+vaccinated person # 6221 is protected
+vaccinated person # 2508 is protected
+lucky person # 4601 didn't get sick
+vaccinated person # 5573 is protected
+lucky person # 6756 didn't get sick
+person # 1899 infected person # 1219!
+vaccinated person # 8707 is protected
+vaccinated person # 5966 is protected
+lucky person # 1232 didn't get sick
+vaccinated person # 8173 is protected
+
+------ person # 2428 ------
+vaccinated person # 5370 is protected
+lucky person # 3028 didn't get sick
+lucky person # 11665 didn't get sick
+lucky person # 1525 didn't get sick
+vaccinated person # 2253 is protected
+vaccinated person # 8605 is protected
+vaccinated person # 9884 is protected
+lucky person # 9828 didn't get sick
+lucky person # 1642 didn't get sick
+vaccinated person # 5945 is protected
+vaccinated person # 1860 is protected
+vaccinated person # 1561 is protected
+
+------ person # 3930 ------
+vaccinated person # 9540 is protected
+vaccinated person # 1292 is protected
+vaccinated person # 3795 is protected
+lucky person # 805 didn't get sick
+lucky person # 4534 didn't get sick
+vaccinated person # 5108 is protected
+vaccinated person # 9020 is protected
+vaccinated person # 8874 is protected
+lucky person # 1308 didn't get sick
+vaccinated person # 11688 is protected
+vaccinated person # 9001 is protected
+vaccinated person # 9469 is protected
+
+------ person # 4338 ------
+lucky person # 10780 didn't get sick
+person # 4338 infected person # 4875!
+lucky person # 1646 didn't get sick
+person # 4338 infected person # 6616!
+lucky person # 668 didn't get sick
+vaccinated person # 5114 is protected
+vaccinated person # 6890 is protected
+person # 4338 infected person # 1525!
+lucky person # 10787 didn't get sick
+vaccinated person # 5466 is protected
+vaccinated person # 4412 is protected
+vaccinated person # 854 is protected
+
+------ person # 4557 ------
+lucky person # 6652 didn't get sick
+lucky person # 8881 didn't get sick
+lucky person # 1752 didn't get sick
+lucky person # 4332 didn't get sick
+vaccinated person # 2603 is protected
+vaccinated person # 9686 is protected
+vaccinated person # 9200 is protected
+person # 4557 infected person # 4059!
+lucky person # 1344 didn't get sick
+lucky person # 5479 didn't get sick
+vaccinated person # 2762 is protected
+vaccinated person # 3038 is protected
+
+------ person # 5281 ------
+vaccinated person # 2775 is protected
+lucky person # 11183 didn't get sick
+vaccinated person # 8352 is protected
+vaccinated person # 3911 is protected
+vaccinated person # 6686 is protected
+lucky person # 87 didn't get sick
+vaccinated person # 11170 is protected
+vaccinated person # 8574 is protected
+vaccinated person # 4481 is protected
+lucky person # 9456 didn't get sick
+vaccinated person # 11968 is protected
+lucky person # 3075 didn't get sick
+
+------ person # 8763 ------
+vaccinated person # 6365 is protected
+vaccinated person # 3154 is protected
+lucky person # 8650 didn't get sick
+vaccinated person # 4797 is protected
+vaccinated person # 5643 is protected
+vaccinated person # 2232 is protected
+vaccinated person # 6633 is protected
+vaccinated person # 9687 is protected
+vaccinated person # 6749 is protected
+lucky person # 9484 didn't get sick
+lucky person # 4716 didn't get sick
+vaccinated person # 4416 is protected
+
+------ person # 8967 ------
+lucky person # 6885 didn't get sick
+vaccinated person # 4178 is protected
+lucky person # 10625 didn't get sick
+lucky person # 9919 didn't get sick
+vaccinated person # 24 is protected
+vaccinated person # 1879 is protected
+vaccinated person # 6648 is protected
+lucky person # 9685 didn't get sick
+vaccinated person # 3135 is protected
+lucky person # 4148 didn't get sick
+vaccinated person # 11338 is protected
+vaccinated person # 2103 is protected
+
+------ person # 11982 ------
+lucky person # 11651 didn't get sick
+vaccinated person # 659 is protected
+vaccinated person # 3784 is protected
+lucky person # 4098 didn't get sick
+vaccinated person # 764 is protected
+vaccinated person # 11986 is protected
+lucky person # 1185 didn't get sick
+vaccinated person # 11213 is protected
+vaccinated person # 6473 is protected
+lucky person # 2182 didn't get sick
+vaccinated person # 3578 is protected
+vaccinated person # 4538 is protected
+
+------ person # 11984 ------
+lucky person # 11407 didn't get sick
+vaccinated person # 226 is protected
+lucky person # 6774 didn't get sick
+lucky person # 1754 didn't get sick
+vaccinated person # 5595 is protected
+vaccinated person # 3383 is protected
+vaccinated person # 7330 is protected
+vaccinated person # 2368 is protected
+vaccinated person # 2412 is protected
+lucky person # 11877 didn't get sick
+lucky person # 10625 didn't get sick
+lucky person # 2022 didn't get sick
+
+<><><> Computing Deaths <><><>
+
+>>> person # 2428 has died...rest in peace...
+>>> person # 4557 has survived the infection!
+>>> person # 11982 has died...rest in peace...
+>>> person # 8967 has survived the infection!
+>>> person # 4338 has survived the infection!
+>>> person # 1899 has survived the infection!
+>>> person # 11984 has survived the infection!
+>>> person # 3930 has survived the infection!
+>>> person # 8763 has survived the infection!
+>>> person # 5281 has survived the infection!
+
+=========================
+cycle # 5 has ended...
+cycle # 6 is starting!
+=========================
+
+
+------ person # 1219 ------
+vaccinated person # 4131 is protected
+vaccinated person # 51 is protected
+person # 1219 infected person # 7102!
+vaccinated person # 7599 is protected
+lucky person # 2600 didn't get sick
+lucky person # 1008 didn't get sick
+vaccinated person # 978 is protected
+lucky person # 7523 didn't get sick
+vaccinated person # 8598 is protected
+vaccinated person # 4742 is protected
+lucky person # 3344 didn't get sick
+vaccinated person # 6781 is protected
+
+------ person # 1525 ------
+lucky person # 7754 didn't get sick
+vaccinated person # 8678 is protected
+vaccinated person # 1070 is protected
+vaccinated person # 9612 is protected
+vaccinated person # 7447 is protected
+lucky person # 5701 didn't get sick
+vaccinated person # 4969 is protected
+vaccinated person # 10563 is protected
+lucky person # 3677 didn't get sick
+lucky person # 7367 didn't get sick
+vaccinated person # 3293 is protected
+vaccinated person # 11291 is protected
+
+------ person # 4059 ------
+lucky person # 7871 didn't get sick
+lucky person # 3614 didn't get sick
+vaccinated person # 7180 is protected
+lucky person # 2188 didn't get sick
+lucky person # 281 didn't get sick
+vaccinated person # 3844 is protected
+vaccinated person # 10578 is protected
+lucky person # 7968 didn't get sick
+vaccinated person # 6305 is protected
+vaccinated person # 3589 is protected
+vaccinated person # 9049 is protected
+vaccinated person # 8360 is protected
+
+------ person # 4875 ------
+lucky person # 1620 didn't get sick
+vaccinated person # 4455 is protected
+lucky person # 10788 didn't get sick
+vaccinated person # 8465 is protected
+vaccinated person # 5085 is protected
+vaccinated person # 6618 is protected
+vaccinated person # 333 is protected
+lucky person # 1033 didn't get sick
+vaccinated person # 9300 is protected
+vaccinated person # 1759 is protected
+lucky person # 3957 didn't get sick
+vaccinated person # 4640 is protected
+
+------ person # 6616 ------
+lucky person # 10054 didn't get sick
+lucky person # 9412 didn't get sick
+vaccinated person # 8683 is protected
+vaccinated person # 2998 is protected
+lucky person # 10286 didn't get sick
+vaccinated person # 8145 is protected
+vaccinated person # 8659 is protected
+vaccinated person # 56 is protected
+vaccinated person # 2444 is protected
+lucky person # 322 didn't get sick
+vaccinated person # 5368 is protected
+vaccinated person # 11311 is protected
+
+<><><> Computing Deaths <><><>
+
+>>> person # 1219 has died...rest in peace...
+>>> person # 4875 has survived the infection!
+>>> person # 6616 has survived the infection!
+>>> person # 1525 has survived the infection!
+>>> person # 4059 has survived the infection!
+
+=========================
+cycle # 6 has ended...
+cycle # 7 is starting!
+=========================
+
+
+------ person # 7102 ------
+lucky person # 4456 didn't get sick
+vaccinated person # 9606 is protected
+lucky person # 3269 didn't get sick
+lucky person # 10307 didn't get sick
+person # 7102 infected person # 6588!
+vaccinated person # 10980 is protected
+vaccinated person # 9861 is protected
+lucky person # 9264 didn't get sick
+vaccinated person # 9244 is protected
+lucky person # 5850 didn't get sick
+lucky person # 1575 didn't get sick
+vaccinated person # 6229 is protected
+
+<><><> Computing Deaths <><><>
+
+>>> person # 7102 has survived the infection!
+
+=========================
+cycle # 7 has ended...
+cycle # 8 is starting!
+=========================
+
+
+------ person # 6588 ------
+lucky person # 3729 didn't get sick
+lucky person # 7060 didn't get sick
+vaccinated person # 9217 is protected
+vaccinated person # 270 is protected
+vaccinated person # 11305 is protected
+vaccinated person # 1251 is protected
+lucky person # 1693 didn't get sick
+person # 6588 infected person # 9266!
+vaccinated person # 2248 is protected
+vaccinated person # 3795 is protected
+vaccinated person # 6736 is protected
+vaccinated person # 720 is protected
+
+<><><> Computing Deaths <><><>
+
+>>> person # 6588 has survived the infection!
+
+=========================
+cycle # 8 has ended...
+cycle # 9 is starting!
+=========================
+
+
+------ person # 9266 ------
+vaccinated person # 8988 is protected
+vaccinated person # 7230 is protected
+vaccinated person # 11773 is protected
+vaccinated person # 2224 is protected
+vaccinated person # 3618 is protected
+vaccinated person # 3516 is protected
+vaccinated person # 3582 is protected
+vaccinated person # 6081 is protected
+vaccinated person # 1587 is protected
+vaccinated person # 600 is protected
+lucky person # 4208 didn't get sick
+vaccinated person # 192 is protected
+
+<><><> Computing Deaths <><><>
+
+>>> person # 9266 has survived the infection!
+
+=========================
+cycle # 9 has ended...
+
+~~~~~~~~ RESULTS ~~~~~~~~
+ starting population: 12000
+finishing population: 11942
+  touched by disease: 178
+    number of deaths: 58
+=========================
